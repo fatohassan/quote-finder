@@ -1,0 +1,4417 @@
+[
+  {
+    "Quote": "Reality continues to ruin my life.",
+    "Author": "Bill Watterson,  The Complete Calvin and Hobbes",
+    "Tags": [
+      "calvin-and-hobbes",
+      "humor",
+      "life "
+    ],
+    "Popularity": 0.01781901781901782,
+    "Category": "life"
+  },
+  {
+    "Quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "Author": "Winston S. Churchill",
+    "Tags": [
+      "bravery",
+      "courage",
+      "failure",
+      "inspirational",
+      "success "
+    ],
+    "Popularity": 0.017806017806017805,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "It is what you read when you don't have to that determines what you will be when you can't help it.",
+    "Author": "Oscar Wilde",
+    "Tags": [
+      "books",
+      "reading "
+    ],
+    "Popularity": 0.01778101778101778,
+    "Category": "books"
+  },
+  {
+    "Quote": "There is no pretending,\"Jace said with absolute clarity. \"I love you, and I will love you until I die, and if there is life after that, I'll love you then.",
+    "Author": "Cassandra Clare,  City of Glass",
+    "Tags": [
+      "mortal-instruments",
+      "romance",
+      "teen-fantasy "
+    ],
+    "Popularity": 0.017637017637017638,
+    "Category": "romance"
+  },
+  {
+    "Quote": "So, this is my life. And I want you to know that I am both happy and sad and I'm still trying to figure out how that could be.",
+    "Author": "Stephen Chbosky,  The Perks of Being a Wallflower",
+    "Tags": [
+      "charlie",
+      "favourite-books",
+      "inspirational",
+      "sad",
+      "soul-searching",
+      "wallflower "
+    ],
+    "Popularity": 0.017524017524017523,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "I love mankind ... it's people I can't stand!!",
+    "Author": "Charles M. Schulz,  The Complete Peanuts, Vol. 5: 1959-1960",
+    "Tags": [
+      "humor",
+      "mankind",
+      "people "
+    ],
+    "Popularity": 0.017305017305017305,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Things change. And friends leave. Life doesn't stop for anybody.",
+    "Author": "Stephen Chbosky,  The Perks of Being a Wallflower",
+    "Tags": [
+      "change",
+      "life "
+    ],
+    "Popularity": 0.01724001724001724,
+    "Category": "life"
+  },
+  {
+    "Quote": "Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.",
+    "Author": "Suzanne Collins,  The Hunger Games",
+    "Tags": [
+      "humor "
+    ],
+    "Popularity": 0.017133017133017132,
+    "Category": "humor"
+  },
+  {
+    "Quote": "You don’t forget the face of the person who was your last hope.",
+    "Author": "Suzanne Collins,  The Hunger Games",
+    "Tags": [
+      "the-hunger-games "
+    ],
+    "Popularity": 0.01712901712901713,
+    "Category": ""
+  },
+  {
+    "Quote": "The only way out of the labyrinth of suffering is to forgive.",
+    "Author": "John Green,  Looking for Alaska",
+    "Tags": [
+      "compassion",
+      "life",
+      "suffering "
+    ],
+    "Popularity": 0.017086017086017084,
+    "Category": "life"
+  },
+  {
+    "Quote": "Go to heaven for the climate and hell for the company.",
+    "Author": "Benjamin Franklin Wade",
+    "Tags": [
+      "humor",
+      "misattributed-mark-twain",
+      "philosophy",
+      "theology "
+    ],
+    "Popularity": 0.016996016996016997,
+    "Category": "humor"
+  },
+  {
+    "Quote": "The reason I talk to myself is because I’m the only one whose answers I accept.",
+    "Author": "George Carlin",
+    "Tags": [
+      "humor",
+      "insanity",
+      "lies",
+      "lying",
+      "self-indulgence",
+      "truth "
+    ],
+    "Popularity": 0.016963016963016962,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I am free of all prejudice. I hate everyone equally.",
+    "Author": "W.C. Fields",
+    "Tags": [
+      "humor",
+      "sinister "
+    ],
+    "Popularity": 0.016835016835016835,
+    "Category": "humor"
+  },
+  {
+    "Quote": "What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.",
+    "Author": "J.D. Salinger,  The Catcher in the Rye",
+    "Tags": [
+      "authors",
+      "books",
+      "literature",
+      "reading",
+      "writing "
+    ],
+    "Popularity": 0.016765016765016766,
+    "Category": "writing"
+  },
+  {
+    "Quote": "What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose.",
+    "Author": "Margaret Thatcher",
+    "Tags": [
+      "Work",
+      "Purpose",
+      "Knowing"
+    ],
+    "Popularity": 0.016666016666016668,
+    "Category": "success"
+  },
+  {
+    "Quote": "At the moment of death I hope to be surprised.",
+    "Author": "Ivan Illich",
+    "Tags": [
+      "Death",
+      "Moment",
+      "Surprised"
+    ],
+    "Popularity": 0.016666016666016668,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Unrest of spirit is a mark of life.",
+    "Author": "Karl A. Menninger",
+    "Tags": [
+      "Spirit",
+      "Mark",
+      "Unrest"
+    ],
+    "Popularity": 0.016666016666016668,
+    "Category": "life"
+  },
+  {
+    "Quote": "Humor is something that thrives between man's aspirations and his limitations. There is more logic in humor than in anything else. Because, you see, humor is truth.",
+    "Author": "Victor Borge",
+    "Tags": [
+      "Truth",
+      "Logic",
+      "Thrives"
+    ],
+    "Popularity": 0.016666016666016668,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Literature is the art of discovering something extraordinary about ordinary people, and saying with ordinary words something extraordinary.",
+    "Author": "Boris Pasternak",
+    "Tags": [
+      "Words",
+      "Literature",
+      "Ordinary"
+    ],
+    "Popularity": 0.016666016666016668,
+    "Category": "arts"
+  },
+  {
+    "Quote": "If everyone is moving forward together, then success takes care of itself.",
+    "Author": "Henry Ford",
+    "Tags": [
+      "Together",
+      "Care",
+      "Moving"
+    ],
+    "Popularity": 0.016633016633016633,
+    "Category": "success"
+  },
+  {
+    "Quote": "Hope is the only universal liar who never loses his reputation for veracity.",
+    "Author": "Robert Green Ingersoll",
+    "Tags": [
+      "Liar",
+      "Reputation",
+      "Universal"
+    ],
+    "Popularity": 0.016633016633016633,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Ships that pass in the night, and speak each other in passing, only a signal shown, and a distant voice in the darkness; So on the ocean of life, we pass and speak one another, only a look and a voice, then darkness again and a silence.",
+    "Author": "Henry Wadsworth Longfellow",
+    "Tags": [
+      "Passing",
+      "Silence",
+      "Ocean"
+    ],
+    "Popularity": 0.016633016633016633,
+    "Category": "life"
+  },
+  {
+    "Quote": "Love is the beauty of the soul.",
+    "Author": "Saint Augustine",
+    "Tags": [
+      "Beauty",
+      "Soul"
+    ],
+    "Popularity": 0.016633016633016633,
+    "Category": "love"
+  },
+  {
+    "Quote": "Wit - the salt with which the American humorist spoils his intellectual cookery by leaving it out.",
+    "Author": "Ambrose Bierce",
+    "Tags": [
+      "Leaving",
+      "Salt",
+      "Wit"
+    ],
+    "Popularity": 0.016633016633016633,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Politics is the art of controlling your environment.",
+    "Author": "Hunter S. Thompson",
+    "Tags": [
+      "Politics"
+    ],
+    "Popularity": 0.016633016633016633,
+    "Category": "arts"
+  },
+  {
+    "Quote": "He has achieved success who has worked well, laughed often, and loved much.",
+    "Author": "Elbert Hubbard",
+    "Tags": [
+      "Loved",
+      "Achieved",
+      "Laughed"
+    ],
+    "Popularity": 0.0166000166000166,
+    "Category": "success"
+  },
+  {
+    "Quote": "Hope is the last thing a person does before they are defeated.",
+    "Author": "Henry Rollins",
+    "Tags": [
+      "Last",
+      "Defeated"
+    ],
+    "Popularity": 0.0166000166000166,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Life is a gift, given in trust - like a child.",
+    "Author": "Anne Morrow Lindbergh",
+    "Tags": [
+      "Trust",
+      "Child",
+      "Gift"
+    ],
+    "Popularity": 0.0166000166000166,
+    "Category": "life"
+  },
+  {
+    "Quote": "Where there is love there is life.",
+    "Author": "Mahatma Gandhi",
+    "Tags": [
+      "Life"
+    ],
+    "Popularity": 0.0166000166000166,
+    "Category": "life"
+  },
+  {
+    "Quote": "Humor brings insight and tolerance. Irony brings a deeper and less friendly understanding.",
+    "Author": "Agnes Repplier",
+    "Tags": [
+      "Irony",
+      "Tolerance",
+      "Insight"
+    ],
+    "Popularity": 0.0166000166000166,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Advertising is the art of convincing people to spend money they don't have for something they don't need.",
+    "Author": "Will Rogers",
+    "Tags": [
+      "Money",
+      "Spend",
+      "Convincing"
+    ],
+    "Popularity": 0.0166000166000166,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Success makes so many people hate you. I wish it wasn't that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.",
+    "Author": "Marilyn Monroe",
+    "Tags": [
+      "Envy",
+      "Eyes",
+      "Hate"
+    ],
+    "Popularity": 0.016566016566016566,
+    "Category": "success"
+  },
+  {
+    "Quote": "The world is bad but not without hope. It is only hopeless when you look at it from an ideal viewpoint.",
+    "Author": "Friedrich Durrenmatt",
+    "Tags": [
+      "Hopeless",
+      "Viewpoint",
+      "Ideal"
+    ],
+    "Popularity": 0.016566016566016566,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Life is wasted on the living.",
+    "Author": "Douglas Adams",
+    "Tags": [
+      "Living",
+      "Wasted"
+    ],
+    "Popularity": 0.016566016566016566,
+    "Category": "life"
+  },
+  {
+    "Quote": "A kiss is a lovely trick designed by nature to stop speech when words become superfluous.",
+    "Author": "Ingrid Bergman",
+    "Tags": [
+      "Nature",
+      "Words",
+      "Kiss"
+    ],
+    "Popularity": 0.016566016566016566,
+    "Category": "love"
+  },
+  {
+    "Quote": "Humor can alter any situation and help us cope at the very instant we are laughing.",
+    "Author": "Allen Klein",
+    "Tags": [
+      "Help",
+      "Situation",
+      "Cope"
+    ],
+    "Popularity": 0.016566016566016566,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Just as pure abstract art is not dogmatic, neither is it decorative.",
+    "Author": "Piet Mondrian",
+    "Tags": [
+      "Abstract",
+      "Pure",
+      "Decorative"
+    ],
+    "Popularity": 0.016566016566016566,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Success comes from knowing that you did your best to become the best that you are capable of becoming.",
+    "Author": "John Wooden",
+    "Tags": [
+      "Best",
+      "Knowing",
+      "Capable"
+    ],
+    "Popularity": 0.01653301653301653,
+    "Category": "success"
+  },
+  {
+    "Quote": "It's time to get real, folks. Hope and change ain't working. Hope and change is not a solution. Hope and change is not a job.",
+    "Author": "Herman Cain",
+    "Tags": [
+      "Change",
+      "Time",
+      "Solution"
+    ],
+    "Popularity": 0.01653301653301653,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Life in abundance comes only through great love.",
+    "Author": "Elbert Hubbard",
+    "Tags": [
+      "Love",
+      "Great",
+      "Abundance"
+    ],
+    "Popularity": 0.01653301653301653,
+    "Category": "life"
+  },
+  {
+    "Quote": "Life is the flower for which love is the honey.",
+    "Author": "Victor Hugo",
+    "Tags": [
+      "Life",
+      "Flower",
+      "Honey"
+    ],
+    "Popularity": 0.01653301653301653,
+    "Category": "life"
+  },
+  {
+    "Quote": "The best way to make your audience laugh is to start laughing yourself.",
+    "Author": "Oliver Goldsmith",
+    "Tags": [
+      "Best",
+      "Start",
+      "Laugh"
+    ],
+    "Popularity": 0.01653301653301653,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Don't only practice your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine.",
+    "Author": "Ludwig van Beethoven",
+    "Tags": [
+      "Knowledge",
+      "Practice",
+      "Secrets"
+    ],
+    "Popularity": 0.01653301653301653,
+    "Category": "arts"
+  },
+  {
+    "Quote": "The most important single ingredient in the formula of success is knowing how to get along with people.",
+    "Author": "Theodore Roosevelt",
+    "Tags": [
+      "Knowing",
+      "Single",
+      "Along"
+    ],
+    "Popularity": 0.0165000165000165,
+    "Category": "success"
+  },
+  {
+    "Quote": "I always believe things are going to work out.",
+    "Author": "Francoise Sagan",
+    "Tags": [
+      "Work"
+    ],
+    "Popularity": 0.0165000165000165,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Life is a culmination of the past, an awareness of the present, an indication of a future beyond knowledge, the quality that gives a touch of divinity to matter.",
+    "Author": "Charles Lindbergh",
+    "Tags": [
+      "Knowledge",
+      "Future",
+      "Quality"
+    ],
+    "Popularity": 0.0165000165000165,
+    "Category": "life"
+  },
+  {
+    "Quote": "Love is being stupid together.",
+    "Author": "Paul Valery",
+    "Tags": [
+      "Together",
+      "Stupid"
+    ],
+    "Popularity": 0.0165000165000165,
+    "Category": "love"
+  },
+  {
+    "Quote": "Comedy has to be based on truth. You take the truth and you put a little curlicue at the end.",
+    "Author": "Sid Caesar",
+    "Tags": [
+      "Truth",
+      "Comedy",
+      "Based"
+    ],
+    "Popularity": 0.0165000165000165,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Architecture is the art of how to waste space.",
+    "Author": "Philip Johnson",
+    "Tags": [
+      "Architecture",
+      "Space",
+      "Waste"
+    ],
+    "Popularity": 0.0165000165000165,
+    "Category": "arts"
+  },
+  {
+    "Quote": "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.",
+    "Author": "Leonardo da Vinci",
+    "Tags": [
+      "Happen",
+      "Attention",
+      "Sat"
+    ],
+    "Popularity": 0.016467016467016468,
+    "Category": "success"
+  },
+  {
+    "Quote": "We often call a certainty a hope, to bring it luck.",
+    "Author": "Elizabeth Bibesco",
+    "Tags": [
+      "Luck",
+      "Certainty",
+      "Bring"
+    ],
+    "Popularity": 0.016467016467016468,
+    "Category": "hope"
+  },
+  {
+    "Quote": "To live is so startling it leaves little time for anything else.",
+    "Author": "Emily Dickinson",
+    "Tags": [
+      "Time",
+      "Leaves",
+      "Startling"
+    ],
+    "Popularity": 0.016467016467016468,
+    "Category": "life"
+  },
+  {
+    "Quote": "You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe deserve your love and affection.",
+    "Author": "Buddha",
+    "Tags": [
+      "Throughout",
+      "Universe",
+      "Search"
+    ],
+    "Popularity": 0.016467016467016468,
+    "Category": "love"
+  },
+  {
+    "Quote": "There seems to be no lengths to which humorless people will not go to analyze humor. It seems to worry them.",
+    "Author": "Robert Benchley",
+    "Tags": [
+      "Worry",
+      "Analyze",
+      "Seems"
+    ],
+    "Popularity": 0.016467016467016468,
+    "Category": "humor"
+  },
+  {
+    "Quote": "People discuss my art and pretend to understand as if it were necessary to understand, when it's simply necessary to love.",
+    "Author": "Claude Monet",
+    "Tags": [
+      "Love",
+      "Understand",
+      "Discuss"
+    ],
+    "Popularity": 0.016467016467016468,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Always bear in mind that your own resolution to succeed is more important than any other.",
+    "Author": "Abraham Lincoln",
+    "Tags": [
+      "Resolution",
+      "Succeed",
+      "Bear"
+    ],
+    "Popularity": 0.016434016434016433,
+    "Category": "success"
+  },
+  {
+    "Quote": "Hope is independent of the apparatus of logic.",
+    "Author": "Norman Cousins",
+    "Tags": [
+      "Logic",
+      "Apparatus"
+    ],
+    "Popularity": 0.016434016434016433,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Seventy percent of success in life is showing up.",
+    "Author": "Woody Allen",
+    "Tags": [
+      "Success",
+      "Percent",
+      "Seventy"
+    ],
+    "Popularity": 0.016434016434016433,
+    "Category": "life"
+  },
+  {
+    "Quote": "We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.",
+    "Author": "Orson Welles",
+    "Tags": [
+      "Friendship",
+      "Alone",
+      "Moment"
+    ],
+    "Popularity": 0.016434016434016433,
+    "Category": "friendship"
+  },
+  {
+    "Quote": "Great men are rarely isolated mountain peaks; they are the summits of ranges.",
+    "Author": "Thomas W. Higginson",
+    "Tags": [
+      "Great",
+      "Men",
+      "Mountain"
+    ],
+    "Popularity": 0.016434016434016433,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Space is the breath of art.",
+    "Author": "Frank Lloyd Wright",
+    "Tags": [
+      "Design",
+      "Space",
+      "Breath"
+    ],
+    "Popularity": 0.016434016434016433,
+    "Category": "arts"
+  },
+  {
+    "Quote": "When someone loves you, the way they talk about you is different. You feel safe and comfortable.",
+    "Author": "Jess C. Scott,  The Intern",
+    "Tags": [
+      "desire",
+      "emotion",
+      "friendship",
+      "honesty",
+      "imagination",
+      "individuality",
+      "life",
+      "love",
+      "passion",
+      "reality",
+      "relationships",
+      "romance",
+      "truth",
+      "wisdom",
+      "wise-words "
+    ],
+    "Popularity": 0.016423016423016423,
+    "Category": "life"
+  },
+  {
+    "Quote": "When love and skill work together, expect a masterpiece.",
+    "Author": "John Ruskin",
+    "Tags": [
+      "Love",
+      "Work",
+      "Expect"
+    ],
+    "Popularity": 0.0164010164010164,
+    "Category": "love"
+  },
+  {
+    "Quote": "Easter is meant to be a symbol of hope, renewal, and new life.",
+    "Author": "Janine di Giovanni",
+    "Tags": [
+      "Easter",
+      "Life",
+      "Renewal"
+    ],
+    "Popularity": 0.0164010164010164,
+    "Category": "hope"
+  },
+  {
+    "Quote": "To be able to look back upon one's past life with satisfaction is to live twice.",
+    "Author": "Lord Acton",
+    "Tags": [
+      "Past",
+      "Twice"
+    ],
+    "Popularity": 0.0164010164010164,
+    "Category": "life"
+  },
+  {
+    "Quote": "The course of true love never did run smooth.",
+    "Author": "William Shakespeare",
+    "Tags": [
+      "True",
+      "Run",
+      "Smooth"
+    ],
+    "Popularity": 0.0164010164010164,
+    "Category": "love"
+  },
+  {
+    "Quote": "Humor is merely tragedy standing on its head with its pants torn.",
+    "Author": "Irvin S. Cobb",
+    "Tags": [
+      "Tragedy",
+      "Head",
+      "Standing"
+    ],
+    "Popularity": 0.0164010164010164,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Science fiction is any idea that occurs in the head and doesn't exist yet, but soon will, and will change everything for everybody, and nothing will ever be the same again. As soon as you have an idea that changes some small part of the world you are writing science fiction. It is always the art of the possible, never the impossible.",
+    "Author": "Ray Bradbury",
+    "Tags": [
+      "Change",
+      "Science",
+      "Small"
+    ],
+    "Popularity": 0.0164010164010164,
+    "Category": "arts"
+  },
+  {
+    "Quote": "You don't have to be a genius or a visionary or even a college graduate to be successful. You just need a framework and a dream.",
+    "Author": "Michael Dell",
+    "Tags": [
+      "Dream",
+      "College",
+      "Successful"
+    ],
+    "Popularity": 0.016368016368016367,
+    "Category": "success"
+  },
+  {
+    "Quote": "Outside of the cross of Jesus Christ, there is no hope in this world. That cross and resurrection at the core of the Gospel is the only hope for humanity. Wherever you go, ask God for wisdom on how to get that Gospel in, even in the toughest situations of life.",
+    "Author": "Ravi Zacharias",
+    "Tags": [
+      "Easter",
+      "Life",
+      "Wisdom"
+    ],
+    "Popularity": 0.016368016368016367,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Any life is made up of a single moment, the moment in which a man finds out, once and for all, who he is.",
+    "Author": "Jorge Luis Borges",
+    "Tags": [
+      "Moment",
+      "Single",
+      "Finds"
+    ],
+    "Popularity": 0.016368016368016367,
+    "Category": "life"
+  },
+  {
+    "Quote": "Love is like a beautiful flower which I may not touch, but whose fragrance makes the garden a place of delight just the same.",
+    "Author": "Helen Keller",
+    "Tags": [
+      "Flower",
+      "Beautiful",
+      "Garden"
+    ],
+    "Popularity": 0.016368016368016367,
+    "Category": "love"
+  },
+  {
+    "Quote": "Wit is the lowest form of humor.",
+    "Author": "Alexander Pope",
+    "Tags": [
+      "Wit",
+      "Form",
+      "Lowest"
+    ],
+    "Popularity": 0.016368016368016367,
+    "Category": "humor"
+  },
+  {
+    "Quote": "There is nothing in the world of art like the songs mother used to sing.",
+    "Author": "Billy Sunday",
+    "Tags": [
+      "Mother's Day",
+      "Mother",
+      "Sing"
+    ],
+    "Popularity": 0.016368016368016367,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Success isn't measured by money or power or social rank. Success is measured by your discipline and inner peace.",
+    "Author": "Mike Ditka",
+    "Tags": [
+      "Money",
+      "Power",
+      "Peace"
+    ],
+    "Popularity": 0.016335016335016335,
+    "Category": "success"
+  },
+  {
+    "Quote": "Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.",
+    "Author": "Bradley Whitford",
+    "Tags": [
+      "Motivational",
+      "Life",
+      "Love"
+    ],
+    "Popularity": 0.016335016335016335,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Wrong life cannot be lived rightly.",
+    "Author": "Theodor Adorno",
+    "Tags": [
+      "Wrong",
+      "Lived",
+      "Cannot"
+    ],
+    "Popularity": 0.016335016335016335,
+    "Category": "life"
+  },
+  {
+    "Quote": "The most powerful weapon on earth is the human soul on fire.",
+    "Author": "Ferdinand Foch",
+    "Tags": [
+      "Fire",
+      "Powerful",
+      "Soul"
+    ],
+    "Popularity": 0.016335016335016335,
+    "Category": "love"
+  },
+  {
+    "Quote": "It is the ability to take a joke, not make one, that proves you have a sense of humor.",
+    "Author": "Max Eastman",
+    "Tags": [
+      "Ability",
+      "Joke",
+      "Proves"
+    ],
+    "Popularity": 0.016335016335016335,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Every bit of me is devoted to love and art. And I aspire to try to be a teacher to my young fans who feel just like I felt when I was younger. I just felt like a freak. I guess what I'm trying to say is I'm trying to liberate them, I want to free them of their fears and make them feel that they can make their own space in the world.",
+    "Author": "Lady Gaga",
+    "Tags": [
+      "Teacher",
+      "Love",
+      "Space"
+    ],
+    "Popularity": 0.016335016335016335,
+    "Category": "arts"
+  },
+  {
+    "Quote": "There is nothing better than a friend, unless it is a friend with chocolate.",
+    "Author": "Linda Grayson",
+    "Tags": [
+      "chocolate",
+      "friendship "
+    ],
+    "Popularity": 0.016328016328016327,
+    "Category": ""
+  },
+  {
+    "Quote": "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
+    "Author": "Bob Dylan",
+    "Tags": [
+      "Morning",
+      "Money",
+      "Night"
+    ],
+    "Popularity": 0.016302016302016303,
+    "Category": "success"
+  },
+  {
+    "Quote": "It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.",
+    "Author": "Robert H. Schuller",
+    "Tags": [
+      "Easter",
+      "Today",
+      "Dream"
+    ],
+    "Popularity": 0.016302016302016303,
+    "Category": "hope"
+  },
+  {
+    "Quote": "You have succeeded in life when all you really want is only what you really need.",
+    "Author": "Vernon Howard",
+    "Tags": [
+      "Succeeded"
+    ],
+    "Popularity": 0.016302016302016303,
+    "Category": "life"
+  },
+  {
+    "Quote": "Love is when he gives you a piece of your soul, that you never knew was missing.",
+    "Author": "Torquato Tasso",
+    "Tags": [
+      "Soul",
+      "Missing",
+      "Piece"
+    ],
+    "Popularity": 0.016302016302016303,
+    "Category": "love"
+  },
+  {
+    "Quote": "A humorist is a person who feels bad, but who feels good about it.",
+    "Author": "Don Herold",
+    "Tags": [
+      "Good",
+      "Feels",
+      "Humorist"
+    ],
+    "Popularity": 0.016302016302016303,
+    "Category": "humor"
+  },
+  {
+    "Quote": "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "Experience",
+      "Science"
+    ],
+    "Popularity": 0.016302016302016303,
+    "Category": "arts"
+  },
+  {
+    "Quote": "What a slut time is. She screws everybody.",
+    "Author": "John Green,  The Fault in Our Stars",
+    "Tags": [
+      "16284 likes "
+    ],
+    "Popularity": 0.016284016284016285,
+    "Category": ""
+  },
+  {
+    "Quote": "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.",
+    "Author": "John Lennon",
+    "Tags": [
+      "beatles",
+      "connection",
+      "dreamers",
+      "dreaming",
+      "dreams",
+      "hope",
+      "inspirational",
+      "peace "
+    ],
+    "Popularity": 0.016273016273016274,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "To be successful, you have to have your heart in your business and your business in your heart.",
+    "Author": "Thomas J. Watson",
+    "Tags": [
+      "Business",
+      "Heart",
+      "Successful"
+    ],
+    "Popularity": 0.01626901626901627,
+    "Category": "success"
+  },
+  {
+    "Quote": "He who has health, has hope; and he who has hope, has everything.",
+    "Author": "Thomas Carlyle",
+    "Tags": [
+      "Health"
+    ],
+    "Popularity": 0.01626901626901627,
+    "Category": "hope"
+  },
+  {
+    "Quote": "The greatest trap in our life is not success, popularity or power, but self-rejection.",
+    "Author": "Henri Nouwen",
+    "Tags": [
+      "Success",
+      "Power"
+    ],
+    "Popularity": 0.01626901626901627,
+    "Category": "life"
+  },
+  {
+    "Quote": "We love life, not because we are used to living but because we are used to loving.",
+    "Author": "Friedrich Nietzsche",
+    "Tags": [
+      "Life",
+      "Living",
+      "Loving"
+    ],
+    "Popularity": 0.01626901626901627,
+    "Category": "life"
+  },
+  {
+    "Quote": "Women, as they grow older, rely more and more on cosmetics. Men, as they grow older, rely more and more on a sense of humor.",
+    "Author": "George Jean Nathan",
+    "Tags": [
+      "Women",
+      "Men",
+      "Grow"
+    ],
+    "Popularity": 0.01626901626901627,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I consider skateboarding an art form, a lifestyle and a sport. 'Action sport' would be the least offensive categorization.",
+    "Author": "Tony Hawk",
+    "Tags": [
+      "Sports",
+      "Action",
+      "Lifestyle"
+    ],
+    "Popularity": 0.01626901626901627,
+    "Category": "arts"
+  },
+  {
+    "Quote": "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.",
+    "Author": "Robert Kiyosaki",
+    "Tags": [
+      "Strength",
+      "Dream",
+      "Desire"
+    ],
+    "Popularity": 0.016236016236016237,
+    "Category": "success"
+  },
+  {
+    "Quote": "All that I am, or hope to be, I owe to my angel mother.",
+    "Author": "Abraham Lincoln",
+    "Tags": [
+      "Mother's Day",
+      "Mother"
+    ],
+    "Popularity": 0.016236016236016237,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Character develops itself in the stream of life.",
+    "Author": "Johann Wolfgang von Goethe",
+    "Tags": [
+      "Character",
+      "Stream"
+    ],
+    "Popularity": 0.016236016236016237,
+    "Category": "life"
+  },
+  {
+    "Quote": "Love and compassion are necessities, not luxuries. Without them humanity cannot survive.",
+    "Author": "Dalai Lama",
+    "Tags": [
+      "Compassion",
+      "Humanity"
+    ],
+    "Popularity": 0.016236016236016237,
+    "Category": "love"
+  },
+  {
+    "Quote": "Humor is perhaps a sense of intellectual perspective: an awareness that some things are really important, others not; and that the two kinds are most oddly jumbled in everyday affairs.",
+    "Author": "Christopher Morley",
+    "Tags": [
+      "Awareness",
+      "Everyday",
+      "Others"
+    ],
+    "Popularity": 0.016236016236016237,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Tact is the art of making a point without making an enemy.",
+    "Author": "Isaac Newton",
+    "Tags": [
+      "Tact",
+      "Enemy",
+      "Point"
+    ],
+    "Popularity": 0.016236016236016237,
+    "Category": "arts"
+  },
+  {
+    "Quote": "If you want to be truly successful invest in yourself to get the knowledge you need to find your unique factor. When you find it and focus on it and persevere your success will blossom.",
+    "Author": "Sydney Madwed",
+    "Tags": [
+      "Knowledge",
+      "Focus",
+      "Unique"
+    ],
+    "Popularity": 0.0162030162030162,
+    "Category": "success"
+  },
+  {
+    "Quote": "The great gift of Easter is hope - Christian hope which makes us have that confidence in God, in his ultimate triumph, and in his goodness and love, which nothing can shake.",
+    "Author": "Basil Hume",
+    "Tags": [
+      "Easter",
+      "Love",
+      "God"
+    ],
+    "Popularity": 0.0162030162030162,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Life consists not in holding good cards but in playing those you hold well.",
+    "Author": "Josh Billings",
+    "Tags": [
+      "Good",
+      "Cards",
+      "Hold"
+    ],
+    "Popularity": 0.0162030162030162,
+    "Category": "life"
+  },
+  {
+    "Quote": "Love has reasons which reason cannot understand.",
+    "Author": "Blaise Pascal",
+    "Tags": [
+      "Reason",
+      "Understand"
+    ],
+    "Popularity": 0.0162030162030162,
+    "Category": "love"
+  },
+  {
+    "Quote": "What a strange world this would be if we all had the same sense of humor.",
+    "Author": "Bernard Williams",
+    "Tags": [
+      "Strange"
+    ],
+    "Popularity": 0.0162030162030162,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Where thou art, that is home.",
+    "Author": "Emily Dickinson",
+    "Tags": [
+      "Home",
+      "Thou"
+    ],
+    "Popularity": 0.0162030162030162,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Formal education will make you a living; self-education will make you a fortune.",
+    "Author": "Jim Rohn",
+    "Tags": [
+      "Education",
+      "Living"
+    ],
+    "Popularity": 0.01617001617001617,
+    "Category": "success"
+  },
+  {
+    "Quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+    "Author": "Helen Keller",
+    "Tags": [
+      "Motivational",
+      "Faith"
+    ],
+    "Popularity": 0.01617001617001617,
+    "Category": "hope"
+  },
+  {
+    "Quote": "The greatest use of a life is to spend it on something that will outlast it.",
+    "Author": "William James",
+    "Tags": [
+      "Greatest",
+      "Spend",
+      "Outlast"
+    ],
+    "Popularity": 0.01617001617001617,
+    "Category": "life"
+  },
+  {
+    "Quote": "Love is an irresistible desire to be irresistibly desired.",
+    "Author": "Robert Frost",
+    "Tags": [
+      "Desire",
+      "Desired"
+    ],
+    "Popularity": 0.01617001617001617,
+    "Category": "love"
+  },
+  {
+    "Quote": "One can never speak enough of the virtues, the dangers, the power of shared laughter.",
+    "Author": "Francoise Sagan",
+    "Tags": [
+      "Power",
+      "Laughter",
+      "Speak"
+    ],
+    "Popularity": 0.01617001617001617,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Filmmaking, like any other art, is a very profound means of human communication; beyond the professional pleasure of succeeding or the pain of failing, you do want your film to be seen, to communicate itself to other people.",
+    "Author": "Kenneth Lonergan",
+    "Tags": [
+      "Pain",
+      "Filmmaking",
+      "Failing"
+    ],
+    "Popularity": 0.01617001617001617,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another.",
+    "Author": "Napoleon Hill",
+    "Tags": [
+      "Failure",
+      "Words",
+      "Influence"
+    ],
+    "Popularity": 0.01613701613701614,
+    "Category": "success"
+  },
+  {
+    "Quote": "Black and white are the colors of photography. To me they symbolize the alternatives of hope and despair to which mankind is forever subjected.",
+    "Author": "Robert Frank",
+    "Tags": [
+      "Black",
+      "Colors",
+      "Forever"
+    ],
+    "Popularity": 0.01613701613701614,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Life is a succession of moments, to live each one is to succeed.",
+    "Author": "Corita Kent",
+    "Tags": [
+      "Succeed",
+      "Moments"
+    ],
+    "Popularity": 0.01613701613701614,
+    "Category": "life"
+  },
+  {
+    "Quote": "I love that feeling of being in love, the effect of having butterflies when you wake up in the morning. That is special.",
+    "Author": "Jennifer Aniston",
+    "Tags": [
+      "Morning",
+      "Special",
+      "Feeling"
+    ],
+    "Popularity": 0.01613701613701614,
+    "Category": "love"
+  },
+  {
+    "Quote": "Wit is an explosion of the compound spirit.",
+    "Author": "Karl Wilhelm Friedrich Schlegel",
+    "Tags": [
+      "Spirit",
+      "Wit",
+      "Explosion"
+    ],
+    "Popularity": 0.01613701613701614,
+    "Category": "humor"
+  },
+  {
+    "Quote": "The art of simplicity is a puzzle of complexity.",
+    "Author": "Douglas Horton",
+    "Tags": [
+      "Simplicity",
+      "Puzzle"
+    ],
+    "Popularity": 0.01613701613701614,
+    "Category": "arts"
+  },
+  {
+    "Quote": "In order to attain the impossible, one must attempt the absurd.",
+    "Author": "Miguel de Cervantes",
+    "Tags": [
+      "Impossible",
+      "Order"
+    ],
+    "Popularity": 0.016104016104016104,
+    "Category": "success"
+  },
+  {
+    "Quote": "A good teacher can inspire hope, ignite the imagination, and instill a love of learning.",
+    "Author": "Brad Henry",
+    "Tags": [
+      "Teacher",
+      "Love",
+      "Learning"
+    ],
+    "Popularity": 0.016104016104016104,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Fortunately analysis is not the only way to resolve inner conflicts. Life itself still remains a very effective therapist.",
+    "Author": "Karen Horney",
+    "Tags": [
+      "Analysis",
+      "Effective"
+    ],
+    "Popularity": 0.016104016104016104,
+    "Category": "life"
+  },
+  {
+    "Quote": "Love is the flower you've got to let grow.",
+    "Author": "John Lennon",
+    "Tags": [
+      "Flower",
+      "Grow"
+    ],
+    "Popularity": 0.016104016104016104,
+    "Category": "love"
+  },
+  {
+    "Quote": "This I conceive to be the chemical function of humor: to change the character of our thought.",
+    "Author": "Lin Yutang",
+    "Tags": [
+      "Change",
+      "Character",
+      "Function"
+    ],
+    "Popularity": 0.016104016104016104,
+    "Category": "humor"
+  },
+  {
+    "Quote": "In art, the obvious is a sin.",
+    "Author": "Edward Dmytryk",
+    "Tags": [
+      "Sin",
+      "Obvious"
+    ],
+    "Popularity": 0.016104016104016104,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.",
+    "Author": "Ralph Waldo Emerson",
+    "Tags": [
+      "life",
+      "regrets "
+    ],
+    "Popularity": 0.01607301607301607,
+    "Category": "life"
+  },
+  {
+    "Quote": "Success depends upon previous preparation, and without such preparation there is sure to be failure.",
+    "Author": "Confucius",
+    "Tags": [
+      "Failure",
+      "Sure",
+      "Depends"
+    ],
+    "Popularity": 0.01607201607201607,
+    "Category": "success"
+  },
+  {
+    "Quote": "There was never a night or a problem that could defeat sunrise or hope.",
+    "Author": "Bernard Williams",
+    "Tags": [
+      "Morning",
+      "Sunrise",
+      "Night"
+    ],
+    "Popularity": 0.01607201607201607,
+    "Category": "hope"
+  },
+  {
+    "Quote": "The chief danger in life is that you may take too many precautions.",
+    "Author": "Alfred Adler",
+    "Tags": [
+      "Danger",
+      "Chief"
+    ],
+    "Popularity": 0.01607201607201607,
+    "Category": "life"
+  },
+  {
+    "Quote": "I believe that imagination is stronger than knowledge. That myth is more potent than history. That dreams are more powerful than facts. That hope always triumphs over experience. That laughter is the only cure for grief. And I believe that love is stronger than death.",
+    "Author": "Robert Fulghum",
+    "Tags": [
+      "Death",
+      "Knowledge",
+      "Hope"
+    ],
+    "Popularity": 0.01607201607201607,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Laughter is involuntary. If it's funny you laugh.",
+    "Author": "Tom Lehrer",
+    "Tags": [
+      "Funny",
+      "Laughter",
+      "Laugh"
+    ],
+    "Popularity": 0.01607201607201607,
+    "Category": "humor"
+  },
+  {
+    "Quote": "The art of healing comes from nature, not from the physician. Therefore the physician must start from nature, with an open mind.",
+    "Author": "Paracelsus",
+    "Tags": [
+      "Health",
+      "Nature",
+      "Healing"
+    ],
+    "Popularity": 0.01607201607201607,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Success is finding satisfaction in giving a little more than you take.",
+    "Author": "Christopher Reeve",
+    "Tags": [
+      "Giving",
+      "Finding"
+    ],
+    "Popularity": 0.01603901603901604,
+    "Category": "success"
+  },
+  {
+    "Quote": "You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.",
+    "Author": "Woodrow Wilson",
+    "Tags": [
+      "Motivational",
+      "Vision",
+      "Living"
+    ],
+    "Popularity": 0.01603901603901604,
+    "Category": "hope"
+  },
+  {
+    "Quote": "It takes half your life before you discover life is a do-it-yourself project.",
+    "Author": "Napoleon Hill",
+    "Tags": [
+      "Project",
+      "Discover",
+      "Half"
+    ],
+    "Popularity": 0.01603901603901604,
+    "Category": "life"
+  },
+  {
+    "Quote": "What force is more potent than love?",
+    "Author": "Igor Stravinsky",
+    "Tags": [
+      "Force",
+      "Potent"
+    ],
+    "Popularity": 0.01603901603901604,
+    "Category": "love"
+  },
+  {
+    "Quote": "The satirist shoots to kill while the humorist brings his prey back alive and eventually releases him again for another chance.",
+    "Author": "Peter De Vries",
+    "Tags": [
+      "Chance",
+      "Alive",
+      "Again"
+    ],
+    "Popularity": 0.01603901603901604,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Minimal art went nowhere.",
+    "Author": "Sol LeWitt",
+    "Tags": [
+      "Nowhere",
+      "Minimal"
+    ],
+    "Popularity": 0.01603901603901604,
+    "Category": "arts"
+  },
+  {
+    "Quote": "The secrets of success are a good wife and a steady job. My wife told me.",
+    "Author": "Howard Nemerov",
+    "Tags": [
+      "Good",
+      "Wife",
+      "Secrets"
+    ],
+    "Popularity": 0.016006016006016005,
+    "Category": "success"
+  },
+  {
+    "Quote": "Forgiving does not erase the bitter past. A healed memory is not a deleted memory. Instead, forgiving what we cannot forget creates a new way to remember. We change the memory of our past into a hope for our future.",
+    "Author": "Lewis B. Smedes",
+    "Tags": [
+      "Moving On",
+      "Change",
+      "Future"
+    ],
+    "Popularity": 0.016006016006016005,
+    "Category": "hope"
+  },
+  {
+    "Quote": "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+    "Author": "Wayne Dyer",
+    "Tags": [
+      "Change",
+      "Happens",
+      "Minds"
+    ],
+    "Popularity": 0.016006016006016005,
+    "Category": "life"
+  },
+  {
+    "Quote": "Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity.",
+    "Author": "Henry Van Dyke",
+    "Tags": [
+      "Time",
+      "Fear",
+      "Grieve"
+    ],
+    "Popularity": 0.016006016006016005,
+    "Category": "love"
+  },
+  {
+    "Quote": "A sense of humor is the ability to understand a joke - and that the joke is oneself.",
+    "Author": "Clifton Fadiman",
+    "Tags": [
+      "Ability",
+      "Understand",
+      "Joke"
+    ],
+    "Popularity": 0.016006016006016005,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Perhaps it's good for one to suffer. Can an artist do anything if he's happy? Would he ever want to do anything? What is art, after all, but a protest against the horrible inclemency of life?",
+    "Author": "Aldous Huxley",
+    "Tags": [
+      "Life",
+      "Good",
+      "Happy"
+    ],
+    "Popularity": 0.016006016006016005,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Frustration, although quite painful at times, is a very positive and essential part of success.",
+    "Author": "Bo Bennett",
+    "Tags": [
+      "Positive",
+      "Painful",
+      "Essential"
+    ],
+    "Popularity": 0.015974015974015973,
+    "Category": "success"
+  },
+  {
+    "Quote": "Where there is no vision, there is no hope.",
+    "Author": "George Washington Carver",
+    "Tags": [
+      "Leadership",
+      "Vision"
+    ],
+    "Popularity": 0.015974015974015973,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+    "Author": "Oscar Wilde",
+    "Tags": [
+      "Good",
+      "Fair",
+      "Perhaps"
+    ],
+    "Popularity": 0.015974015974015973,
+    "Category": "life"
+  },
+  {
+    "Quote": "If you can learn to love yourself and all the flaws, you can love other people so much better. And that makes you so happy.",
+    "Author": "Kristin Chenoweth",
+    "Tags": [
+      "Happy",
+      "Learn",
+      "Flaws"
+    ],
+    "Popularity": 0.015974015974015973,
+    "Category": "love"
+  },
+  {
+    "Quote": "Puns are a form of humor with words.",
+    "Author": "Guillermo Cabrera Infante",
+    "Tags": [
+      "Words",
+      "Form",
+      "Puns"
+    ],
+    "Popularity": 0.015974015974015973,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I think you can do anything with comics that you could do in just about any art form.",
+    "Author": "Harvey Pekar",
+    "Tags": [
+      "Comics",
+      "Form"
+    ],
+    "Popularity": 0.015974015974015973,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Formula for success: rise early, work hard, strike oil.",
+    "Author": "J. Paul Getty",
+    "Tags": [
+      "Work",
+      "Early",
+      "Oil"
+    ],
+    "Popularity": 0.01594101594101594,
+    "Category": "success"
+  },
+  {
+    "Quote": "A leader is a dealer in hope.",
+    "Author": "Napoleon Bonaparte",
+    "Tags": [
+      "Leadership",
+      "Leader"
+    ],
+    "Popularity": 0.01594101594101594,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Life must be lived as play.",
+    "Author": "Plato",
+    "Tags": [
+      "Lived"
+    ],
+    "Popularity": 0.01594101594101594,
+    "Category": "life"
+  },
+  {
+    "Quote": "Love is a force more formidable than any other. It is invisible - it cannot be seen or measured, yet it is powerful enough to transform you in a moment, and offer you more joy than any material possession could.",
+    "Author": "Barbara de Angelis",
+    "Tags": [
+      "Joy",
+      "Moment",
+      "Powerful"
+    ],
+    "Popularity": 0.01594101594101594,
+    "Category": "love"
+  },
+  {
+    "Quote": "There is no defense against adverse fortune which is so effectual as an habitual sense of humor.",
+    "Author": "Thomas W. Higginson",
+    "Tags": [
+      "Defense",
+      "Against",
+      "Fortune"
+    ],
+    "Popularity": 0.01594101594101594,
+    "Category": "humor"
+  },
+  {
+    "Quote": "When the bright angel dominates, out comes a great work of art, a Michelangelo David or a Beethoven symphony.",
+    "Author": "Madeleine L'Engle",
+    "Tags": [
+      "Work",
+      "Great",
+      "Angel"
+    ],
+    "Popularity": 0.01594101594101594,
+    "Category": "arts"
+  },
+  {
+    "Quote": "There is nothing to writing. All you do is sit down at a typewriter and bleed.",
+    "Author": "Ernest Hemingway",
+    "Tags": [
+      "good",
+      "writing "
+    ],
+    "Popularity": 0.01593201593201593,
+    "Category": "writing"
+  },
+  {
+    "Quote": "If you want to achieve things in life, you've just got to do them, and if you're talented and smart, you'll succeed.",
+    "Author": "Juliana Hatfield",
+    "Tags": [
+      "Life",
+      "Smart",
+      "Succeed"
+    ],
+    "Popularity": 0.015908015908015907,
+    "Category": "life"
+  },
+  {
+    "Quote": "Imagine all the people living life in peace. You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the world will be as one.",
+    "Author": "John Lennon",
+    "Tags": [
+      "Peace",
+      "Life",
+      "Dreamer"
+    ],
+    "Popularity": 0.015908015908015907,
+    "Category": "hope"
+  },
+  {
+    "Quote": "We live in the world when we love it.",
+    "Author": "Rabindranath Tagore",
+    "Tags": [
+      "Love"
+    ],
+    "Popularity": 0.015908015908015907,
+    "Category": "life"
+  },
+  {
+    "Quote": "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+    "Author": "Buddha",
+    "Tags": [
+      "Affection",
+      "Deserve",
+      "Universe"
+    ],
+    "Popularity": 0.015908015908015907,
+    "Category": "love"
+  },
+  {
+    "Quote": "All art constantly aspires towards the condition of music.",
+    "Author": "Walter Pater",
+    "Tags": [
+      "Music",
+      "Condition",
+      "Constantly"
+    ],
+    "Popularity": 0.015908015908015907,
+    "Category": "arts"
+  },
+  {
+    "Quote": "The marks humans leave are too often scars.",
+    "Author": "John Green,  The Fault in Our Stars",
+    "Tags": [
+      "humans",
+      "pain",
+      "scars "
+    ],
+    "Popularity": 0.015901015901015902,
+    "Category": ""
+  },
+  {
+    "Quote": "The question isn't who is going to let me; it's who is going to stop me.",
+    "Author": "Ayn Rand",
+    "Tags": [
+      "15880 likes "
+    ],
+    "Popularity": 0.01588001588001588,
+    "Category": ""
+  },
+  {
+    "Quote": "The greatest sign of success for a teacher... is to be able to say, 'The children are now working as if I did not exist.'",
+    "Author": "Maria Montessori",
+    "Tags": [
+      "Teacher",
+      "Greatest",
+      "Sign"
+    ],
+    "Popularity": 0.015876015876015875,
+    "Category": "success"
+  },
+  {
+    "Quote": "Pakistan not only means freedom and independence but the Muslim Ideology which has to be preserved, which has come to us as a precious gift and treasure and which, we hope other will share with us.",
+    "Author": "Muhammad Ali Jinnah",
+    "Tags": [
+      "Freedom",
+      "Pakistan",
+      "Gift"
+    ],
+    "Popularity": 0.015876015876015875,
+    "Category": "hope"
+  },
+  {
+    "Quote": "The man who has no inner-life is a slave to his surroundings.",
+    "Author": "Henri Frederic Amiel",
+    "Tags": [
+      "Slave"
+    ],
+    "Popularity": 0.015876015876015875,
+    "Category": "life"
+  },
+  {
+    "Quote": "Love is a smoke made with the fume of sighs.",
+    "Author": "William Shakespeare",
+    "Tags": [
+      "Smoke",
+      "Sighs"
+    ],
+    "Popularity": 0.015876015876015875,
+    "Category": "love"
+  },
+  {
+    "Quote": "You can't be funny if you don't have good material.",
+    "Author": "Matt LeBlanc",
+    "Tags": [
+      "Funny",
+      "Good",
+      "Material"
+    ],
+    "Popularity": 0.015876015876015875,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I am my own experiment. I am my own work of art.",
+    "Author": "Madonna Ciccone",
+    "Tags": [
+      "Work",
+      "Experiment"
+    ],
+    "Popularity": 0.015876015876015875,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.",
+    "Author": "John Wooden",
+    "Tags": [
+      "Best",
+      "Peace",
+      "Knowing"
+    ],
+    "Popularity": 0.015843015843015843,
+    "Category": "success"
+  },
+  {
+    "Quote": "I hope everyone that is reading this is having a really good day. And if you are not, just know that in every new minute that passes you have an opportunity to change that.",
+    "Author": "Gillian Anderson",
+    "Tags": [
+      "Change",
+      "Good",
+      "Reading"
+    ],
+    "Popularity": 0.015843015843015843,
+    "Category": "hope"
+  },
+  {
+    "Quote": "It is often said that before you die your life passes before your eyes. It is in fact true. It's called living.",
+    "Author": "Terry Pratchett",
+    "Tags": [
+      "Eyes",
+      "Living",
+      "True"
+    ],
+    "Popularity": 0.015843015843015843,
+    "Category": "life"
+  },
+  {
+    "Quote": "'Tis better to have loved and lost than never to have loved at all.",
+    "Author": "Alfred Lord Tennyson",
+    "Tags": [
+      "Lost",
+      "Loved",
+      "Tis"
+    ],
+    "Popularity": 0.015843015843015843,
+    "Category": "love"
+  },
+  {
+    "Quote": "Our humor turns our anger into a fine art.",
+    "Author": "Mary Kay Blakely",
+    "Tags": [
+      "Art",
+      "Anger",
+      "Fine"
+    ],
+    "Popularity": 0.015843015843015843,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I am a real person that cares about his art and cares about what he's doing - I have a heart and a soul and want to touch people and give.",
+    "Author": "LL Cool J",
+    "Tags": [
+      "Heart",
+      "Soul",
+      "Touch"
+    ],
+    "Popularity": 0.015843015843015843,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Coming together is a beginning; keeping together is progress; working together is success.",
+    "Author": "Henry Ford",
+    "Tags": [
+      "Together",
+      "Progress"
+    ],
+    "Popularity": 0.01581101581101581,
+    "Category": "success"
+  },
+  {
+    "Quote": "But what we call our despair is often only the painful eagerness of unfed hope.",
+    "Author": "George Eliot",
+    "Tags": [
+      "Painful",
+      "Despair",
+      "Call"
+    ],
+    "Popularity": 0.01581101581101581,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+    "Author": "Lao Tzu",
+    "Tags": [
+      "Kindness",
+      "Giving",
+      "Confidence"
+    ],
+    "Popularity": 0.01581101581101581,
+    "Category": "love"
+  },
+  {
+    "Quote": "Even a true artist does not always produce art.",
+    "Author": "Carroll O'Connor",
+    "Tags": [
+      "Artist",
+      "True",
+      "Produce"
+    ],
+    "Popularity": 0.01581101581101581,
+    "Category": "arts"
+  },
+  {
+    "Quote": "It doesn't take many people to have a bad sense of humor to get in trouble at a corporation.",
+    "Author": "Scott Adams",
+    "Tags": [
+      "Trouble"
+    ],
+    "Popularity": 0.01581101581101581,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Hope is the feeling we have that the feeling we have is not permanent.",
+    "Author": "Mignon McLaughlin",
+    "Tags": [
+      "Feeling",
+      "Permanent"
+    ],
+    "Popularity": 0.01577801577801578,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+    "Author": "Yoko Ono",
+    "Tags": [
+      "Smile",
+      "Morning",
+      "Mirror"
+    ],
+    "Popularity": 0.01577801577801578,
+    "Category": "life"
+  },
+  {
+    "Quote": "Every artist writes his own autobiography.",
+    "Author": "Havelock Ellis",
+    "Tags": [
+      "Artist",
+      "Writes"
+    ],
+    "Popularity": 0.01577801577801578,
+    "Category": "arts"
+  },
+  {
+    "Quote": "I've got a great sense of humor.",
+    "Author": "Anthony Hopkins",
+    "Tags": [
+      "Great"
+    ],
+    "Popularity": 0.01577801577801578,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I consider myself Istanbul's storyteller. My subject matter is my town. I consider it my job to explore the hidden patterns of my city's clandestine corners, its shady, mysterious places, the things I love.",
+    "Author": "Orhan Pamuk",
+    "Tags": [
+      "City",
+      "Hidden",
+      "Mysterious"
+    ],
+    "Popularity": 0.01577801577801578,
+    "Category": "love"
+  },
+  {
+    "Quote": "I have never let my schooling interfere with my education.",
+    "Author": "Mark Twain",
+    "Tags": [
+      "attributed-no-source",
+      "education "
+    ],
+    "Popularity": 0.015775015775015774,
+    "Category": "education"
+  },
+  {
+    "Quote": "The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.",
+    "Author": "Vince Lombardi",
+    "Tags": [
+      "Work",
+      "Best",
+      "Dedication"
+    ],
+    "Popularity": 0.015746015746015744,
+    "Category": "success"
+  },
+  {
+    "Quote": "The future is not Big Government. Self-serving politicians. Powerful bureaucrats. This has been tried, tested throughout history. The result has always been disaster. President Obama, your agenda is not new. It's not change, and it's not hope.",
+    "Author": "Rush Limbaugh",
+    "Tags": [
+      "Change",
+      "Future",
+      "History"
+    ],
+    "Popularity": 0.015746015746015744,
+    "Category": "hope"
+  },
+  {
+    "Quote": "There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.",
+    "Author": "Jiddu Krishnamurti",
+    "Tags": [
+      "Learning",
+      "Education",
+      "Book"
+    ],
+    "Popularity": 0.015746015746015744,
+    "Category": "life"
+  },
+  {
+    "Quote": "When I am finishing a picture, I hold some God-made object up to it - a rock, a flower, the branch of a tree or my hand - as a final test. If the painting stands up beside a thing man cannot make, the painting is authentic. If there's a clash between the two, it's bad art.",
+    "Author": "Marc Chagall",
+    "Tags": [
+      "Flower",
+      "Tree",
+      "Painting"
+    ],
+    "Popularity": 0.015746015746015744,
+    "Category": "arts"
+  },
+  {
+    "Quote": "I think in my case, I had no choice but to have a good sense of humor. I grew up with my dad, Danny Thomas, and George Burns and Bob Hope and Milton Berle and Sid Caesar and all those guys were at our house all the time and telling jokes and making each other laugh.",
+    "Author": "Marlo Thomas",
+    "Tags": [
+      "Time",
+      "Hope",
+      "Good"
+    ],
+    "Popularity": 0.015746015746015744,
+    "Category": "humor"
+  },
+  {
+    "Quote": "That's my actual payment, the fact that I can actually make something that I actually enjoy and put on repeat, and it's not related to anything else or anyone else's thoughts and ideas, it all came from me; I just love that aspect of it.",
+    "Author": "Akon",
+    "Tags": [
+      "Thoughts",
+      "Ideas",
+      "Enjoy"
+    ],
+    "Popularity": 0.015746015746015744,
+    "Category": "love"
+  },
+  {
+    "Quote": "Success is simple. Do what's right, the right way, at the right time.",
+    "Author": "Arnold H. Glasow",
+    "Tags": [
+      "Time",
+      "Simple"
+    ],
+    "Popularity": 0.015714015714015712,
+    "Category": "success"
+  },
+  {
+    "Quote": "We would not be interested in human beings if we did not have the hope of someday meeting someone worse off than ourselves.",
+    "Author": "Emile M. Cioran",
+    "Tags": [
+      "Meeting",
+      "Interested",
+      "Someday"
+    ],
+    "Popularity": 0.015714015714015712,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.",
+    "Author": "Og Mandino",
+    "Tags": [
+      "Motivational",
+      "Beginning"
+    ],
+    "Popularity": 0.015714015714015712,
+    "Category": "life"
+  },
+  {
+    "Quote": "Draw your pleasure, paint your pleasure, and express your pleasure strongly.",
+    "Author": "Pierre Bonnard",
+    "Tags": [
+      "Paint",
+      "Pleasure",
+      "Express"
+    ],
+    "Popularity": 0.015714015714015712,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Down the road, I'll probably have a kid or two or three. And there will probably be political events or spiritual things to comment on, and humor.",
+    "Author": "Alanis Morissette",
+    "Tags": [
+      "Spiritual",
+      "Political",
+      "Road"
+    ],
+    "Popularity": 0.015714015714015712,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Write what you love. Love will hold you through the hard times and hold the world during the good times.",
+    "Author": "Mark Z. Danielewski",
+    "Tags": [
+      "Good",
+      "Hold"
+    ],
+    "Popularity": 0.015714015714015712,
+    "Category": "love"
+  },
+  {
+    "Quote": "Not all those who wander are lost.",
+    "Author": "J.R.R. Tolkien,  The Fellowship of the Ring",
+    "Tags": [
+      "bilbo",
+      "journey",
+      "lost",
+      "quest",
+      "travel",
+      "wander "
+    ],
+    "Popularity": 0.015708015708015707,
+    "Category": ""
+  },
+  {
+    "Quote": "The starting point of all achievement is desire.",
+    "Author": "Napoleon Hill",
+    "Tags": [
+      "Desire",
+      "Point"
+    ],
+    "Popularity": 0.01568101568101568,
+    "Category": "success"
+  },
+  {
+    "Quote": "I hope people start to look at their lives as the most powerful, creative act they will ever offer this world.",
+    "Author": "Tom Shadyac",
+    "Tags": [
+      "Start",
+      "Creative",
+      "Powerful"
+    ],
+    "Popularity": 0.01568101568101568,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life.",
+    "Author": "A. P. J. Abdul Kalam",
+    "Tags": [
+      "Work",
+      "Knowledge",
+      "Great"
+    ],
+    "Popularity": 0.01568101568101568,
+    "Category": "life"
+  },
+  {
+    "Quote": "A great artist can paint a great picture on a small canvas.",
+    "Author": "Charles Dudley Warner",
+    "Tags": [
+      "Great",
+      "Small",
+      "Artist"
+    ],
+    "Popularity": 0.01568101568101568,
+    "Category": "arts"
+  },
+  {
+    "Quote": "You've got to have a sense of humor to keep your sanity.",
+    "Author": "Lance Bass",
+    "Tags": [
+      "Sanity"
+    ],
+    "Popularity": 0.01568101568101568,
+    "Category": "humor"
+  },
+  {
+    "Quote": "You are ugly when you love her, you are beautiful and fresh, vital and free, modern and poetic when you don't... you are more beautiful as an orphan than as your mother's son.",
+    "Author": "Witold Gombrowicz",
+    "Tags": [
+      "Mother",
+      "Beautiful",
+      "Son"
+    ],
+    "Popularity": 0.01568101568101568,
+    "Category": "love"
+  },
+  {
+    "Quote": "Books are the ultimate Dumpees: put them down and they’ll wait for you forever; pay attention to them and they always love you back.",
+    "Author": "John Green,  An Abundance of Katherines",
+    "Tags": [
+      "books",
+      "reading "
+    ],
+    "Popularity": 0.015674015674015673,
+    "Category": "books"
+  },
+  {
+    "Quote": "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
+    "Author": "Bruce Lee",
+    "Tags": [
+      "Faith",
+      "Successful",
+      "Express"
+    ],
+    "Popularity": 0.01564901564901565,
+    "Category": "success"
+  },
+  {
+    "Quote": "She gave up beauty in her tender youth, gave all her hope and joy and pleasant ways; she covered up her eyes lest they should gaze on vanity, and chose the bitter truth.",
+    "Author": "Christina Rossetti",
+    "Tags": [
+      "Beauty",
+      "Truth",
+      "Eyes"
+    ],
+    "Popularity": 0.01564901564901565,
+    "Category": "hope"
+  },
+  {
+    "Quote": "He who is not courageous enough to take risks will accomplish nothing in life.",
+    "Author": "Muhammad Ali",
+    "Tags": [
+      "Courage",
+      "Accomplish",
+      "Risks"
+    ],
+    "Popularity": 0.01564901564901565,
+    "Category": "life"
+  },
+  {
+    "Quote": "That's the motivation of an artist - to seek attention of some kind.",
+    "Author": "James Taylor",
+    "Tags": [
+      "Motivation",
+      "Artist"
+    ],
+    "Popularity": 0.01564901564901565,
+    "Category": "arts"
+  },
+  {
+    "Quote": "I never write anything without humor, just because I like humor, but at the same time, it is a way for anything fantastical to become relatable.",
+    "Author": "Joss Whedon",
+    "Tags": [
+      "Time"
+    ],
+    "Popularity": 0.01564901564901565,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I'm very girly. I love to talk about diets, exercise, kids, make-up.",
+    "Author": "Rachel Hunter",
+    "Tags": [
+      "Exercise",
+      "Talk",
+      "Girly"
+    ],
+    "Popularity": 0.01564901564901565,
+    "Category": "love"
+  },
+  {
+    "Quote": "So it's not gonna be easy. It's going to be really hard; we're gonna have to work at this everyday, but I want to do that because I want you. I want all of you, forever, everyday. You and me... everyday.",
+    "Author": "Nicholas Sparks,  The Notebook",
+    "Tags": [
+      "love",
+      "marriage "
+    ],
+    "Popularity": 0.015626015626015625,
+    "Category": "love"
+  },
+  {
+    "Quote": "Don't aim for success if you want it; just do what you love and believe in, and it will come naturally.",
+    "Author": "David Frost",
+    "Tags": [
+      "Love",
+      "Aim",
+      "Naturally"
+    ],
+    "Popularity": 0.015617015617015617,
+    "Category": "love"
+  },
+  {
+    "Quote": "A lot of people, to attack an outspoken atheist, one of the things they'll do is say, 'You are as bad as the fundamentalist Christians.' And my answer is always, 'I hope so.'",
+    "Author": "Penn Jillette",
+    "Tags": [
+      "Attack",
+      "Atheist",
+      "Answer"
+    ],
+    "Popularity": 0.015617015617015617,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance, chaos to order, confusion to clarity. It can turn a meal into a feast, a house into a home, a stranger into a friend.",
+    "Author": "Melody Beattie",
+    "Tags": [
+      "Thankful",
+      "Home",
+      "Gratitude"
+    ],
+    "Popularity": 0.015617015617015617,
+    "Category": "life"
+  },
+  {
+    "Quote": "Every other artist begins with a blank canvas, a piece of paper the photographer begins with the finished product.",
+    "Author": "Edward Steichen",
+    "Tags": [
+      "Artist",
+      "Product",
+      "Canvas"
+    ],
+    "Popularity": 0.015617015617015617,
+    "Category": "arts"
+  },
+  {
+    "Quote": "It's always amazed me how little attention philosophers, psychologists, or anyone else actually has paid to humor.",
+    "Author": "Edward de Bono",
+    "Tags": [
+      "Attention",
+      "Anyone",
+      "Paid"
+    ],
+    "Popularity": 0.015617015617015617,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Love is a fire. But whether it is going to warm your hearth or burn down your house, you can never tell.",
+    "Author": "Joan Crawford",
+    "Tags": [
+      "Fire",
+      "Warm",
+      "Burn"
+    ],
+    "Popularity": 0.015617015617015617,
+    "Category": "love"
+  },
+  {
+    "Quote": "It takes courage to grow up and become who you really are.",
+    "Author": "E.E. Cummings",
+    "Tags": [
+      "attributed-no-source",
+      "courage "
+    ],
+    "Popularity": 0.015604015604015604,
+    "Category": ""
+  },
+  {
+    "Quote": "Success consists of going from failure to failure without loss of enthusiasm.",
+    "Author": "Winston Churchill",
+    "Tags": [
+      "Failure",
+      "Loss"
+    ],
+    "Popularity": 0.015584015584015584,
+    "Category": "success"
+  },
+  {
+    "Quote": "You want to play another kind of character in another genre, and it's been something I've been trying to do if I can in the career so far, and it's something I hope to continue because it's interesting to me and you get to do different things as an actor.",
+    "Author": "Keanu Reeves",
+    "Tags": [
+      "Character",
+      "Career",
+      "Continue"
+    ],
+    "Popularity": 0.015584015584015584,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.",
+    "Author": "Langston Hughes",
+    "Tags": [
+      "Dreams",
+      "Bird",
+      "Fly"
+    ],
+    "Popularity": 0.015584015584015584,
+    "Category": "life"
+  },
+  {
+    "Quote": "My attitude towards drawing is not necessarily about drawing. It's about making the best kind of image I can make, it's about talking as clearly as I can.",
+    "Author": "Jim Dine",
+    "Tags": [
+      "Best",
+      "Attitude",
+      "Drawing"
+    ],
+    "Popularity": 0.015584015584015584,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Humor expands our limited picture frame and gets us to see more than just our problem.",
+    "Author": "Allen Klein",
+    "Tags": [
+      "Problem",
+      "Picture",
+      "Frame"
+    ],
+    "Popularity": 0.015584015584015584,
+    "Category": "humor"
+  },
+  {
+    "Quote": "And I ask why am I black, they say I was born in sin, and shamed inequity. One of the main songs we used to sing in church makes me sick, 'love wash me and I shall be whiter than snow.",
+    "Author": "Peter Tosh",
+    "Tags": [
+      "Black",
+      "Sick",
+      "Snow"
+    ],
+    "Popularity": 0.015584015584015584,
+    "Category": "love"
+  },
+  {
+    "Quote": "Success is nothing more than a few simple disciplines, practiced every day.",
+    "Author": "Jim Rohn",
+    "Tags": [
+      "Simple",
+      "Few",
+      "Practiced"
+    ],
+    "Popularity": 0.015552015552015552,
+    "Category": "success"
+  },
+  {
+    "Quote": "Very much, string theory is simply a work in progress. What we are inching toward every day are predictions that within the realm of current technology we hope to test. It's not like we're working on a theory that is permanently beyond experiment. That would be philosophy.",
+    "Author": "Brian Greene",
+    "Tags": [
+      "Work",
+      "Technology",
+      "Progress"
+    ],
+    "Popularity": 0.015552015552015552,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Earth teach me to forget myself as melted snow forgets its life. Earth teach me resignation as the leaves which die in the fall. Earth teach me courage as the tree which stands all alone. Earth teach me regeneration as the seed which rises in the spring.",
+    "Author": "William Alexander",
+    "Tags": [
+      "Courage",
+      "Alone",
+      "Spring"
+    ],
+    "Popularity": 0.015552015552015552,
+    "Category": "life"
+  },
+  {
+    "Quote": "Where the spirit does not work with the hand, there is no art.",
+    "Author": "Leonardo da Vinci",
+    "Tags": [
+      "Work",
+      "Hand",
+      "Spirit"
+    ],
+    "Popularity": 0.015552015552015552,
+    "Category": "arts"
+  },
+  {
+    "Quote": "If you look at terrorists, they really have no sense of humor.",
+    "Author": "Al Franken",
+    "Tags": [
+      "Terrorists"
+    ],
+    "Popularity": 0.015552015552015552,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I accepted the face that as much as I want to lead others, and love to be around other people, in some essential way, I am something of a loner.",
+    "Author": "Arthur Ashe",
+    "Tags": [
+      "Face",
+      "Others",
+      "Lead"
+    ],
+    "Popularity": 0.015552015552015552,
+    "Category": "love"
+  },
+  {
+    "Quote": "Try not to become a man of success, but rather try to become a man of value.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "Value",
+      "Rather"
+    ],
+    "Popularity": 0.01552001552001552,
+    "Category": "success"
+  },
+  {
+    "Quote": "I'm involved in quite a few ministries as a bridge builder, trying to match generous givers and donors to other ministries. Based on my past, I'm also involved in mainly the prison ministry. I go to jails and prisons and share my story, trying to give them some hope.",
+    "Author": "Lex Luger",
+    "Tags": [
+      "Past",
+      "Bridge",
+      "Prison"
+    ],
+    "Popularity": 0.01552001552001552,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Art is the only way to run away without leaving home.",
+    "Author": "Twyla Tharp",
+    "Tags": [
+      "Home",
+      "Leaving",
+      "Run"
+    ],
+    "Popularity": 0.01552001552001552,
+    "Category": "arts"
+  },
+  {
+    "Quote": "My sense of humor is a turkey, and I pull it out of the oven and baste it in reality.",
+    "Author": "Tracy Morgan",
+    "Tags": [
+      "Reality",
+      "Oven",
+      "Pull"
+    ],
+    "Popularity": 0.01552001552001552,
+    "Category": "humor"
+  },
+  {
+    "Quote": "As love without esteem is capricious and volatile; esteem without love is languid and cold.",
+    "Author": "Jonathan Swift",
+    "Tags": [
+      "Cold",
+      "Esteem",
+      "Volatile"
+    ],
+    "Popularity": 0.01552001552001552,
+    "Category": "love"
+  },
+  {
+    "Quote": "Do not pity the dead, Harry. Pity the living, and, above all those who live without love.",
+    "Author": "J.K. Rowling,  Harry Potter and the Deathly Hallows",
+    "Tags": [
+      "live-death-love "
+    ],
+    "Popularity": 0.01548901548901549,
+    "Category": ""
+  },
+  {
+    "Quote": "To die will be an awfully big adventure.",
+    "Author": "J.M. Barrie,  Peter Pan",
+    "Tags": [
+      "adventure",
+      "love "
+    ],
+    "Popularity": 0.015488015488015488,
+    "Category": "love"
+  },
+  {
+    "Quote": "Desire is the key to motivation, but it's determination and commitment to an unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.",
+    "Author": "Mario Andretti",
+    "Tags": [
+      "Commitment",
+      "Motivation",
+      "Goal"
+    ],
+    "Popularity": 0.015488015488015488,
+    "Category": "motivation"
+  },
+  {
+    "Quote": "I have learned from my experiences in this industry that there is absolutely no way to control people's opinions on your performance in your movie. You go out there, promote your film and hope people like the work you did.",
+    "Author": "Leonardo DiCaprio",
+    "Tags": [
+      "Work",
+      "Control",
+      "Opinions"
+    ],
+    "Popularity": 0.015488015488015488,
+    "Category": "hope"
+  },
+  {
+    "Quote": "The bird is powered by its own life and by its motivation.",
+    "Author": "A. P. J. Abdul Kalam",
+    "Tags": [
+      "Inspirational",
+      "Bird"
+    ],
+    "Popularity": 0.015488015488015488,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
+    "Author": "Henry Ward Beecher",
+    "Tags": [
+      "Nature",
+      "Artist",
+      "Soul"
+    ],
+    "Popularity": 0.015488015488015488,
+    "Category": "arts"
+  },
+  {
+    "Quote": "There's plenty of room for humor in politics, God knows, but it's a serious business.",
+    "Author": "Al Franken",
+    "Tags": [
+      "Business",
+      "God",
+      "Politics"
+    ],
+    "Popularity": 0.015488015488015488,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Nashville is my home, and the reason why I get to do what I love.",
+    "Author": "Taylor Swift",
+    "Tags": [
+      "Home",
+      "Reason",
+      "Nashville"
+    ],
+    "Popularity": 0.015488015488015488,
+    "Category": "love"
+  },
+  {
+    "Quote": "Anyone who has never made a mistake has never tried anything new.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "attributed-no-source",
+      "mistakes "
+    ],
+    "Popularity": 0.015484015484015484,
+    "Category": ""
+  },
+  {
+    "Quote": "Action is the foundational key to all success.",
+    "Author": "Pablo Picasso",
+    "Tags": [
+      "Action",
+      "Key"
+    ],
+    "Popularity": 0.015456015456015456,
+    "Category": "success"
+  },
+  {
+    "Quote": "I'm quite a confident person in many ways, but there's only so much you can hear about being compared to Hattie Jacques. For the record, she was a comedy goddess, but she was 25 stone. I hope I'm right in saying I'm not in any way nearly 25 stone.",
+    "Author": "Miranda Hart",
+    "Tags": [
+      "Comedy",
+      "Stone",
+      "Goddess"
+    ],
+    "Popularity": 0.015456015456015456,
+    "Category": "hope"
+  },
+  {
+    "Quote": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.",
+    "Author": "Mark Twain",
+    "Tags": [
+      "Death",
+      "Time",
+      "Fear"
+    ],
+    "Popularity": 0.015456015456015456,
+    "Category": "life"
+  },
+  {
+    "Quote": "A picture is a poem without words.",
+    "Author": "Horace",
+    "Tags": [
+      "Picture",
+      "Words",
+      "Poem"
+    ],
+    "Popularity": 0.015456015456015456,
+    "Category": "arts"
+  },
+  {
+    "Quote": "If the blood humor is too strong and robust, calm it with balance and harmony.",
+    "Author": "Xun Zi",
+    "Tags": [
+      "Strong",
+      "Balance",
+      "Calm"
+    ],
+    "Popularity": 0.015456015456015456,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Love is so unconditional; love liberates; love is the reason why I do what I do, and so I think it is the greatest gift we have.",
+    "Author": "BeBe Winans",
+    "Tags": [
+      "Greatest",
+      "Reason",
+      "Gift"
+    ],
+    "Popularity": 0.015456015456015456,
+    "Category": "love"
+  },
+  {
+    "Quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
+    "Author": "David Brinkley",
+    "Tags": [
+      "Foundation",
+      "Thrown"
+    ],
+    "Popularity": 0.015424015424015424,
+    "Category": "success"
+  },
+  {
+    "Quote": "Sixty-four thousand dollars for a question, I hope they are asking you the meaning of life.",
+    "Author": "Paul Scofield",
+    "Tags": [
+      "Life",
+      "Meaning",
+      "Question"
+    ],
+    "Popularity": 0.015424015424015424,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Just as treasures are uncovered from the earth, so virtue appears from good deeds, and wisdom appears from a pure and peaceful mind. To walk safely through the maze of human life, one needs the light of wisdom and the guidance of virtue.",
+    "Author": "Buddha",
+    "Tags": [
+      "Wisdom",
+      "Good",
+      "Virtue"
+    ],
+    "Popularity": 0.015424015424015424,
+    "Category": "life"
+  },
+  {
+    "Quote": "I have no fear of making changes, destroying the image, etc., because the painting has a life of its own.",
+    "Author": "Jackson Pollock",
+    "Tags": [
+      "Life",
+      "Fear",
+      "Painting"
+    ],
+    "Popularity": 0.015424015424015424,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Humor's a weapon if you want to make it one.",
+    "Author": "Bob Newhart",
+    "Tags": [
+      "Weapon"
+    ],
+    "Popularity": 0.015424015424015424,
+    "Category": "humor"
+  },
+  {
+    "Quote": "The measure of a man is not how great his faith is, but how great his love is. We must not let government programs disconnect our souls from each other.",
+    "Author": "J. C. Watts",
+    "Tags": [
+      "Faith",
+      "Great",
+      "Government"
+    ],
+    "Popularity": 0.015424015424015424,
+    "Category": "love"
+  },
+  {
+    "Quote": "I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.",
+    "Author": "Jimi Hendrix,  Jimi Hendrix - Axis: Bold as Love",
+    "Tags": [
+      "death",
+      "life "
+    ],
+    "Popularity": 0.015408015408015409,
+    "Category": "life"
+  },
+  {
+    "Quote": "Winning isn't everything, it's the only thing.",
+    "Author": "Vince Lombardi",
+    "Tags": [
+      "Winning"
+    ],
+    "Popularity": 0.015392015392015393,
+    "Category": "success"
+  },
+  {
+    "Quote": "I try to make a dent in people when I can. I figure people drift toward liberalism at a young age, and I always hope that they change when they see how the world really is.",
+    "Author": "Johnny Ramone",
+    "Tags": [
+      "Change",
+      "Age",
+      "Liberalism"
+    ],
+    "Popularity": 0.015392015392015393,
+    "Category": "hope"
+  },
+  {
+    "Quote": "The Christian life is not a constant high. I have my moments of deep discouragement. I have to go to God in prayer with tears in my eyes, and say, 'O God, forgive me,' or 'Help me.'",
+    "Author": "Billy Graham",
+    "Tags": [
+      "God",
+      "Eyes",
+      "Deep"
+    ],
+    "Popularity": 0.015392015392015393,
+    "Category": "life"
+  },
+  {
+    "Quote": "To me, photography is the simultaneous recognition, in a fraction of a second, of the significance of an event.",
+    "Author": "Henri Cartier-Bresson",
+    "Tags": [
+      "Event",
+      "Second",
+      "Fraction"
+    ],
+    "Popularity": 0.015392015392015393,
+    "Category": "arts"
+  },
+  {
+    "Quote": "What you see on stage is pretty much the way I am... a dry sense of humor.",
+    "Author": "Bob Newhart",
+    "Tags": [
+      "Stage",
+      "Dry"
+    ],
+    "Popularity": 0.015392015392015393,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I love you, and because I love you, I would sooner have you hate me for telling you the truth than adore me for telling you lies.",
+    "Author": "Pietro Aretino",
+    "Tags": [
+      "Relationship",
+      "Truth",
+      "Hate"
+    ],
+    "Popularity": 0.015392015392015393,
+    "Category": "love"
+  },
+  {
+    "Quote": "′Classic′ - a book which people praise and don't read.",
+    "Author": "Mark Twain",
+    "Tags": [
+      "books",
+      "classic",
+      "reading "
+    ],
+    "Popularity": 0.015389015389015388,
+    "Category": "books"
+  },
+  {
+    "Quote": "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+    "Author": "Swami Vivekananda",
+    "Tags": [
+      "Life",
+      "Alone",
+      "Brain"
+    ],
+    "Popularity": 0.01536001536001536,
+    "Category": "life"
+  },
+  {
+    "Quote": "I hope I can help guys come out and say, 'All right, dude, I got a manicure... and I liked it.'",
+    "Author": "Ryan Seacrest",
+    "Tags": [
+      "Help",
+      "Dude",
+      "Guys"
+    ],
+    "Popularity": 0.01536001536001536,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Transformation is a process, and as life happens there are tons of ups and downs. It's a journey of discovery - there are moments on mountaintops and moments in deep valleys of despair.",
+    "Author": "Rick Warren",
+    "Tags": [
+      "Discovery",
+      "Journey",
+      "Deep"
+    ],
+    "Popularity": 0.01536001536001536,
+    "Category": "life"
+  },
+  {
+    "Quote": "Every picture shows a spot with which the artist has fallen in love.",
+    "Author": "Alfred Sisley",
+    "Tags": [
+      "Love",
+      "Artist",
+      "Picture"
+    ],
+    "Popularity": 0.01536001536001536,
+    "Category": "arts"
+  },
+  {
+    "Quote": "You know, Freud accepted his lot very stoically and very well and with a sense of humor. He aged and died gracefully, and there's a lot to be said for that.",
+    "Author": "Viggo Mortensen",
+    "Tags": [
+      "Freud",
+      "Accepted",
+      "Aged"
+    ],
+    "Popularity": 0.01536001536001536,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Joy is prayer; joy is strength: joy is love; joy is a net of love by which you can catch souls.",
+    "Author": "Mother Teresa",
+    "Tags": [
+      "Happiness",
+      "Strength",
+      "Joy"
+    ],
+    "Popularity": 0.01536001536001536,
+    "Category": "love"
+  },
+  {
+    "Quote": "Success is how high you bounce when you hit bottom.",
+    "Author": "George S. Patton",
+    "Tags": [
+      "Bottom",
+      "Bounce",
+      "High"
+    ],
+    "Popularity": 0.015328015328015329,
+    "Category": "success"
+  },
+  {
+    "Quote": "Helplessness induces hopelessness, and history attests that loss of hope and not loss of lives is what decides the issue of war.",
+    "Author": "B. H. Liddell Hart",
+    "Tags": [
+      "War",
+      "History",
+      "Loss"
+    ],
+    "Popularity": 0.015328015328015329,
+    "Category": "hope"
+  },
+  {
+    "Quote": "The biggest adventure you can take is to live the life of your dreams.",
+    "Author": "Oprah Winfrey",
+    "Tags": [
+      "Dreams",
+      "Adventure",
+      "Biggest"
+    ],
+    "Popularity": 0.015328015328015329,
+    "Category": "life"
+  },
+  {
+    "Quote": "Good art is art that allows you to enter it from a variety of angles and to emerge with a variety of views.",
+    "Author": "Mary Schmich",
+    "Tags": [
+      "Good",
+      "Variety",
+      "Angles"
+    ],
+    "Popularity": 0.015328015328015329,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Sometimes I find I'm wearing a divided, split brain in terms of drama and humor.",
+    "Author": "Ridley Scott",
+    "Tags": [
+      "Brain",
+      "Drama",
+      "Divided"
+    ],
+    "Popularity": 0.015328015328015329,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Alcohol may be man's worst enemy, but the bible says love your enemy.",
+    "Author": "Frank Sinatra",
+    "Tags": [
+      "Alcohol",
+      "Enemy",
+      "Bible"
+    ],
+    "Popularity": 0.015328015328015329,
+    "Category": "love"
+  },
+  {
+    "Quote": "Happiness lies in the joy of achievement and the thrill of creative effort.",
+    "Author": "Franklin D. Roosevelt",
+    "Tags": [
+      "Happiness",
+      "Creative"
+    ],
+    "Popularity": 0.015296015296015295,
+    "Category": "success"
+  },
+  {
+    "Quote": "I hope that 'Jaws' will have brought sharks into the public interest at a time when we desperately need to reevaluate our care for the environment.",
+    "Author": "Peter Benchley",
+    "Tags": [
+      "Time",
+      "Care",
+      "Sharks"
+    ],
+    "Popularity": 0.015296015296015295,
+    "Category": "hope"
+  },
+  {
+    "Quote": "I've cried, and you'd think I'd be better for it, but the sadness just sleeps, and it stays in my spine the rest of my life.",
+    "Author": "Conor Oberst",
+    "Tags": [
+      "Sad",
+      "Sadness",
+      "Cried"
+    ],
+    "Popularity": 0.015296015296015295,
+    "Category": "life"
+  },
+  {
+    "Quote": "All art is a struggle to be, in a particular sort of way, virtuous.",
+    "Author": "Iris Murdoch",
+    "Tags": [
+      "Struggle",
+      "Virtuous",
+      "Sort"
+    ],
+    "Popularity": 0.015296015296015295,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Me and Matt love to argue, but in general our sense of humor is pretty much alike.",
+    "Author": "Trey Parker",
+    "Tags": [
+      "Love",
+      "Alike",
+      "General"
+    ],
+    "Popularity": 0.015296015296015295,
+    "Category": "humor"
+  },
+  {
+    "Quote": "When you love and accept yourself, when you know who really cares about you, and when you learn from your mistakes, then you stop caring about what people who don't know you think.",
+    "Author": "Beyonce Knowles",
+    "Tags": [
+      "Accept",
+      "Mistakes",
+      "Caring"
+    ],
+    "Popularity": 0.015296015296015295,
+    "Category": "love"
+  },
+  {
+    "Quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "Author": "Albert Schweitzer",
+    "Tags": [
+      "Love",
+      "Happiness",
+      "Successful"
+    ],
+    "Popularity": 0.015264015264015263,
+    "Category": "love"
+  },
+  {
+    "Quote": "I feel blessed to be here representing our country and carrying out th research of scientists around the world... I hope you could feel the positive energy that beamed to the whole planet as we glided over.",
+    "Author": "Laurel Clark",
+    "Tags": [
+      "Positive",
+      "Research",
+      "Blessed"
+    ],
+    "Popularity": 0.015264015264015263,
+    "Category": "hope"
+  },
+  {
+    "Quote": "I decided to fly through the air and live in the sunlight and enjoy life as much as I could.",
+    "Author": "Evel Knievel",
+    "Tags": [
+      "Fly",
+      "Enjoy",
+      "Sunlight"
+    ],
+    "Popularity": 0.015264015264015263,
+    "Category": "life"
+  },
+  {
+    "Quote": "The creative act lasts but a brief moment, a lightning instant of give-and-take, just long enough for you to level the camera and to trap the fleeting prey in your little box.",
+    "Author": "Henri Cartier-Bresson",
+    "Tags": [
+      "Creative",
+      "Moment",
+      "Camera"
+    ],
+    "Popularity": 0.015264015264015263,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Political correctness? In my humor, I never talk about politics. I was never much into all that.",
+    "Author": "Don Rickles",
+    "Tags": [
+      "Politics",
+      "Political",
+      "Talk"
+    ],
+    "Popularity": 0.015264015264015263,
+    "Category": "humor"
+  },
+  {
+    "Quote": "The things that we love tell us what we are.",
+    "Author": "Thomas Aquinas",
+    "Tags": [
+      "Inspirational"
+    ],
+    "Popularity": 0.015264015264015263,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "All you need in this life is ignorance and confidence, and then success is sure.",
+    "Author": "Mark Twain",
+    "Tags": [
+      "Life",
+      "Ignorance",
+      "Confidence"
+    ],
+    "Popularity": 0.015232015232015231,
+    "Category": "life"
+  },
+  {
+    "Quote": "I would hope to get together with the Latino community, if I could ever have them talk to me without screaming and threatening me. So I hope to get together with the community and try to explain what we do, so that's going to be one of my missions coming up.",
+    "Author": "Joe Arpaio",
+    "Tags": [
+      "Community",
+      "Together",
+      "Talk"
+    ],
+    "Popularity": 0.015232015232015231,
+    "Category": "hope"
+  },
+  {
+    "Quote": "One day I decided that I was beautiful, and so I carried out my life as if I was a beautiful girl. I wear colors that I really like, I wear makeup that makes me feel pretty, and it really helps. It doesn't have anything to do with how the world perceives you. What matters is what you see.",
+    "Author": "Gabourey Sidibe",
+    "Tags": [
+      "Beautiful",
+      "Girl",
+      "Colors"
+    ],
+    "Popularity": 0.015232015232015231,
+    "Category": "life"
+  },
+  {
+    "Quote": "The goal of art was the vital expression of self.",
+    "Author": "Alfred Stieglitz",
+    "Tags": [
+      "Goal",
+      "Self",
+      "Expression"
+    ],
+    "Popularity": 0.015232015232015231,
+    "Category": "arts"
+  },
+  {
+    "Quote": "People with no humor, they're outta my life.",
+    "Author": "Patti LaBelle",
+    "Tags": [
+      "Life"
+    ],
+    "Popularity": 0.015232015232015231,
+    "Category": "humor"
+  },
+  {
+    "Quote": "The garden of love is green without limit and yields many fruits other than sorrow or joy. Love is beyond either condition: without spring, without autumn, it is always fresh.",
+    "Author": "Rumi",
+    "Tags": [
+      "Spring",
+      "Joy",
+      "Autumn"
+    ],
+    "Popularity": 0.015232015232015231,
+    "Category": "love"
+  },
+  {
+    "Quote": "No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed.",
+    "Author": "Godfrey Winn",
+    "Tags": [
+      "Good",
+      "Blessed",
+      "Wife"
+    ],
+    "Popularity": 0.0152000152000152,
+    "Category": "success"
+  },
+  {
+    "Quote": "I wouldn't wear turtlenecks. That I'm not envious of. But who knows? I might sneak out a few things and hope and pray that no one says, 'Hey, didn't you wear that when you were playing an enormous geek on TV?'",
+    "Author": "Simon Helberg",
+    "Tags": [
+      "Pray",
+      "Knows",
+      "Sneak"
+    ],
+    "Popularity": 0.0152000152000152,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Life is all about evolution. What looks like a mistake to others has been a milestone in my life. Even if people have betrayed me, even if my heart was broken, even if people misunderstood or judged me, I have learned from these incidents. We are human and we make mistakes, but learning from them is what makes the difference.",
+    "Author": "Amisha Patel",
+    "Tags": [
+      "Learning",
+      "Mistakes",
+      "Heart"
+    ],
+    "Popularity": 0.0152000152000152,
+    "Category": "life"
+  },
+  {
+    "Quote": "Photography is a major force in explaining man to man.",
+    "Author": "Edward Steichen",
+    "Tags": [
+      "Force",
+      "Explaining",
+      "Major"
+    ],
+    "Popularity": 0.0152000152000152,
+    "Category": "arts"
+  },
+  {
+    "Quote": "I'm not a particularly dark individual. I have my moments, it's true, but I do have a sense of humor.",
+    "Author": "Alan Moore",
+    "Tags": [
+      "Dark",
+      "Moments",
+      "True"
+    ],
+    "Popularity": 0.0152000152000152,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I must learn to love the fool in me - the one who feels too much, talks too much, takes too many chances, wins sometimes and loses often, lacks self-control, loves and hates, hurts and gets hurt, promises and breaks promises, laughs and cries.",
+    "Author": "Theodore Isaac Rubin",
+    "Tags": [
+      "Chance",
+      "Hurt",
+      "Fool"
+    ],
+    "Popularity": 0.0152000152000152,
+    "Category": "love"
+  },
+  {
+    "Quote": "Be nice to nerds. You may end up working for them. We all could.",
+    "Author": "Charles J. Sykes,  Dumbing Down Our Kids: Why American Children Feel Good About Themselves But Can't Read, Write or Add",
+    "Tags": [
+      "humor",
+      "misattributed-to-bill-gates",
+      "nerd",
+      "nerds",
+      "work "
+    ],
+    "Popularity": 0.015192015192015192,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
+    "Author": "Bill Gates",
+    "Tags": [
+      "Teacher",
+      "Thinking"
+    ],
+    "Popularity": 0.015168015168015168,
+    "Category": "success"
+  },
+  {
+    "Quote": "Thus we hope to teach mythology not as a study, but as a relaxation from study; to give our work the charm of a story-book, yet by means of it to impart a knowledge of an important branch of education.",
+    "Author": "Thomas Bulfinch",
+    "Tags": [
+      "Education",
+      "Work",
+      "Knowledge"
+    ],
+    "Popularity": 0.015168015168015168,
+    "Category": "hope"
+  },
+  {
+    "Quote": "All mankind... being all equal and independent, no one ought to harm another in his life, health, liberty or possessions.",
+    "Author": "John Locke",
+    "Tags": [
+      "Health",
+      "Equal",
+      "Liberty"
+    ],
+    "Popularity": 0.015168015168015168,
+    "Category": "life"
+  },
+  {
+    "Quote": "An empty canvas is full.",
+    "Author": "Robert Rauschenberg",
+    "Tags": [
+      "Canvas",
+      "Empty",
+      "Full"
+    ],
+    "Popularity": 0.015168015168015168,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Men live by intervals of reason under the sovereignty of humor and passion.",
+    "Author": "Thomas Browne",
+    "Tags": [
+      "Men",
+      "Passion",
+      "Reason"
+    ],
+    "Popularity": 0.015168015168015168,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Never forget the three powerful resources you always have available to you: love, prayer, and forgiveness.",
+    "Author": "H. Jackson Brown, Jr.",
+    "Tags": [
+      "Forgiveness",
+      "Prayer"
+    ],
+    "Popularity": 0.015168015168015168,
+    "Category": "love"
+  },
+  {
+    "Quote": "It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.",
+    "Author": "Winston Churchill",
+    "Tags": [
+      "Best",
+      "Succeed",
+      "Saying"
+    ],
+    "Popularity": 0.015136015136015136,
+    "Category": "success"
+  },
+  {
+    "Quote": "I'm always nervous! Especially when it comes to a series like 'Disgaea', where you do have such a devoted fan base, the last thing you want to do is disappoint. But I love playing bad guys and just always hope that fans will be forgiving if I miss the mark.",
+    "Author": "Troy Baker",
+    "Tags": [
+      "Love",
+      "Nervous",
+      "Last"
+    ],
+    "Popularity": 0.015136015136015136,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Let your life lightly dance on the edges of Time like dew on the tip of a leaf.",
+    "Author": "Rabindranath Tagore",
+    "Tags": [
+      "Inspirational",
+      "Time"
+    ],
+    "Popularity": 0.015136015136015136,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "I see myself and many artists like me as the torchbearers through these dark ages.",
+    "Author": "John Zorn",
+    "Tags": [
+      "Dark",
+      "Artists",
+      "Ages"
+    ],
+    "Popularity": 0.015136015136015136,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Married people should not be quick to hear what is said by either when in ill humor.",
+    "Author": "Samuel Richardson",
+    "Tags": [
+      "Hear",
+      "Married",
+      "Quick"
+    ],
+    "Popularity": 0.015136015136015136,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.",
+    "Author": "Maya Angelou",
+    "Tags": [
+      "Romantic",
+      "Hope",
+      "Barriers"
+    ],
+    "Popularity": 0.015136015136015136,
+    "Category": "hope"
+  },
+  {
+    "Quote": "The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty.",
+    "Author": "Zig Ziglar",
+    "Tags": [
+      "Love",
+      "Faith",
+      "Character"
+    ],
+    "Popularity": 0.015105015105015105,
+    "Category": "love"
+  },
+  {
+    "Quote": "I don't think just scaring people is enough. That worked during the freeze days to a major extent, but we really didn't achieve that much even at that time. You have to have more, you have to give people hope and a vision of a better world.",
+    "Author": "Alan Cranston",
+    "Tags": [
+      "Time",
+      "Vision",
+      "Achieve"
+    ],
+    "Popularity": 0.015105015105015105,
+    "Category": "hope"
+  },
+  {
+    "Quote": "I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.",
+    "Author": "Walt Disney",
+    "Tags": [
+      "Positive",
+      "Realistic",
+      "Matter"
+    ],
+    "Popularity": 0.015105015105015105,
+    "Category": "life"
+  },
+  {
+    "Quote": "The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.",
+    "Author": "Elbert Hubbard",
+    "Tags": [
+      "Beautiful",
+      "Process",
+      "Marble"
+    ],
+    "Popularity": 0.015105015105015105,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Well, I mean, if a joke or humor is bawdy, it's got to be funny enough to warrant it. You can't just have it bawdy or dirty just for the sake of being that - it's got to be funny.",
+    "Author": "Betty White",
+    "Tags": [
+      "Funny",
+      "Mean",
+      "Dirty"
+    ],
+    "Popularity": 0.015105015105015105,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I love life. There's so much to learn and see all the time, and nothing nicer for me than to wake up, and the sky is blue.",
+    "Author": "Pattie Boyd",
+    "Tags": [
+      "Life",
+      "Time",
+      "Sky"
+    ],
+    "Popularity": 0.015105015105015105,
+    "Category": "life"
+  },
+  {
+    "Quote": "A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.",
+    "Author": "Jane Austen,  Pride and Prejudice",
+    "Tags": [
+      "humor",
+      "love",
+      "romantic",
+      "women "
+    ],
+    "Popularity": 0.015083015083015083,
+    "Category": "love"
+  },
+  {
+    "Quote": "Strive not to be a success, but rather to be of value.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "Value",
+      "Strive",
+      "Rather"
+    ],
+    "Popularity": 0.015073015073015074,
+    "Category": "success"
+  },
+  {
+    "Quote": "Hope is the most exciting thing in life, and if you honestly believe that love is out there, it will come. And even if it doesn't come straight away, there is still that chance all through your life that it will.",
+    "Author": "Josh Hartnett",
+    "Tags": [
+      "Life",
+      "Love",
+      "Chance"
+    ],
+    "Popularity": 0.015073015073015074,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Don't walk through life just playing football. Don't walk through life just being an athlete. Athletics will fade. Character and integrity and really making an impact on someone's life, that's the ultimate vision, that's the ultimate goal - bottom line.",
+    "Author": "Ray Lewis",
+    "Tags": [
+      "Integrity",
+      "Character",
+      "Goal"
+    ],
+    "Popularity": 0.015073015073015074,
+    "Category": "life"
+  },
+  {
+    "Quote": "One eye sees, the other feels.",
+    "Author": "Paul Klee",
+    "Tags": [
+      "Eye",
+      "Feels",
+      "Sees"
+    ],
+    "Popularity": 0.015073015073015074,
+    "Category": "arts"
+  },
+  {
+    "Quote": "God has a most wicked sense of humor.",
+    "Author": "Maureen O'Hara",
+    "Tags": [
+      "God",
+      "Wicked"
+    ],
+    "Popularity": 0.015073015073015074,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Some people can't stand being alone. I love solitude and silence. But when I come out of it, I'm a regular talking machine. It's all or nothing for me.",
+    "Author": "Celine Dion",
+    "Tags": [
+      "Alone",
+      "Silence",
+      "Solitude"
+    ],
+    "Popularity": 0.015073015073015074,
+    "Category": "love"
+  },
+  {
+    "Quote": "Dumbledore watched her fly away, and as her silvery glow faded he turned back to Snape, and his eyes were full of tears.\"After all this time?\"\"Always,\"said Snape.",
+    "Author": "J.K. Rowling,  Harry Potter and the Deathly Hallows",
+    "Tags": [
+      "dumbledore",
+      "life",
+      "love",
+      "snape "
+    ],
+    "Popularity": 0.01504901504901505,
+    "Category": "life"
+  },
+  {
+    "Quote": "I've failed over and over and over again in my life and that is why I succeed.",
+    "Author": "Michael Jordan",
+    "Tags": [
+      "Life",
+      "Succeed",
+      "Again"
+    ],
+    "Popularity": 0.015041015041015042,
+    "Category": "life"
+  },
+  {
+    "Quote": "I hope my daughter knows that in our house we can make messes and have fun and we'll laugh through it. Granted I don't want her to trash the house, but we do make a lot of messes.",
+    "Author": "Angela Kinsey",
+    "Tags": [
+      "Daughter",
+      "Fun",
+      "Laugh"
+    ],
+    "Popularity": 0.015041015041015042,
+    "Category": "hope"
+  },
+  {
+    "Quote": "In school, you're taught a lesson and then given a test. In life, you're given a test that teaches you a lesson.",
+    "Author": "Tom Bodett",
+    "Tags": [
+      "Test",
+      "Lesson",
+      "Given"
+    ],
+    "Popularity": 0.015041015041015042,
+    "Category": "life"
+  },
+  {
+    "Quote": "In art as in love, instinct is enough.",
+    "Author": "Anatole France",
+    "Tags": [
+      "Love",
+      "Instinct"
+    ],
+    "Popularity": 0.015041015041015042,
+    "Category": "arts"
+  },
+  {
+    "Quote": "What we're doing is fun - if you have any sense of humor at all!",
+    "Author": "Calvin Klein",
+    "Tags": [
+      "Fun"
+    ],
+    "Popularity": 0.015041015041015042,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.",
+    "Author": "Marilyn Monroe",
+    "Tags": [
+      "Anniversary",
+      "Friendship"
+    ],
+    "Popularity": 0.015041015041015042,
+    "Category": "friendship"
+  },
+  {
+    "Quote": "We believe in ordinary acts of bravery, in the courage that drives one person to stand up for another.",
+    "Author": "Veronica Roth,  Divergent",
+    "Tags": [
+      "inspirational-quotes",
+      "strength-and-courage "
+    ],
+    "Popularity": 0.01501001501001501,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.",
+    "Author": "Booker T. Washington",
+    "Tags": [
+      "Life",
+      "Obstacles",
+      "Overcome"
+    ],
+    "Popularity": 0.01501001501001501,
+    "Category": "life"
+  },
+  {
+    "Quote": "One of the things I noticed is that people really change when they realize their expiration date is coming, and they know what it is. Most of us don't: we just hope we can live as long as we can and do as much good as we can.",
+    "Author": "Justin Baldoni",
+    "Tags": [
+      "Change",
+      "Good",
+      "Realize"
+    ],
+    "Popularity": 0.01501001501001501,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Life is like a game of cards. The hand you are dealt is determinism; the way you play it is free will.",
+    "Author": "Jawaharlal Nehru",
+    "Tags": [
+      "Game",
+      "Free",
+      "Cards"
+    ],
+    "Popularity": 0.01501001501001501,
+    "Category": "life"
+  },
+  {
+    "Quote": "A beautiful body perishes, but a work of art dies not.",
+    "Author": "Leonardo da Vinci",
+    "Tags": [
+      "Work",
+      "Beautiful",
+      "Body"
+    ],
+    "Popularity": 0.01501001501001501,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Nobody can predict the future. You just have to give your all to the relationship you're in and do your best to take care of your partner, communicate and give them every last drop of love you have. I think one of the most important things in a relationship is caring for your significant other through good times and bad.",
+    "Author": "Nick Cannon",
+    "Tags": [
+      "Best",
+      "Future",
+      "Good"
+    ],
+    "Popularity": 0.01501001501001501,
+    "Category": "love"
+  },
+  {
+    "Quote": "But better to get hurt by the truth than comforted with a lie.",
+    "Author": "Khaled Hosseini",
+    "Tags": [
+      "life "
+    ],
+    "Popularity": 0.014978014978014978,
+    "Category": "life"
+  },
+  {
+    "Quote": "I think that success is having fun.",
+    "Author": "Bruno Mars",
+    "Tags": [
+      "Fun"
+    ],
+    "Popularity": 0.014978014978014978,
+    "Category": "success"
+  },
+  {
+    "Quote": "I am a firm believer that God has already ordered the things that have taken place in my life... and I'm just learning to follow the path he's laid before me.",
+    "Author": "Monica Denise Brown",
+    "Tags": [
+      "Learning",
+      "God",
+      "Path"
+    ],
+    "Popularity": 0.014978014978014978,
+    "Category": "life"
+  },
+  {
+    "Quote": "My politics of optimism and hope still casts its lot with the Democrats - in the optimistic hope that the dying embers of its status as the party of our better angels, one that took risks for social justice, can still be fanned into a flame. But I'm an old man, born in 1969.",
+    "Author": "Rick Perlstein",
+    "Tags": [
+      "Politics",
+      "Justice",
+      "Optimism"
+    ],
+    "Popularity": 0.014978014978014978,
+    "Category": "hope"
+  },
+  {
+    "Quote": "I connect to humor really deeply, so I feel really comfortable just being in funny projects.",
+    "Author": "Guillermo Diaz",
+    "Tags": [
+      "Funny",
+      "Connect",
+      "Projects"
+    ],
+    "Popularity": 0.014978014978014978,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Art resides in the quality of doing, process is not magic.",
+    "Author": "Charles Eames",
+    "Tags": [
+      "Quality",
+      "Process",
+      "Magic"
+    ],
+    "Popularity": 0.014978014978014978,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Love looks not with the eyes, but with the mind, And therefore is winged Cupid painted blind.",
+    "Author": "William Shakespeare",
+    "Tags": [
+      "Blind",
+      "Eyes",
+      "Looks"
+    ],
+    "Popularity": 0.014978014978014978,
+    "Category": "love"
+  },
+  {
+    "Quote": "As I've progressed in my career, I've come to appreciate - and really value - the other attributes that define a company's success beyond the P&L: great leadership, long-term financial strength, ethical business practices, evolving business strategies, sound governance, powerful brands, values-based decision-making.",
+    "Author": "Ursula Burns",
+    "Tags": [
+      "Leadership",
+      "Strength"
+    ],
+    "Popularity": 0.014946014946014946,
+    "Category": "success"
+  },
+  {
+    "Quote": "Life, liberty, and property do not exist because men have made laws. On the contrary, it was the fact that life, liberty, and property existed beforehand that caused men to make laws in the first place.",
+    "Author": "Frederic Bastiat",
+    "Tags": [
+      "Men",
+      "Liberty",
+      "Laws"
+    ],
+    "Popularity": 0.014946014946014946,
+    "Category": "life"
+  },
+  {
+    "Quote": "I spread the message of hope and of unity. That's what gets me up in the morning. I can tell you what is wrong, but I can't tell you how to fix it. I'm a raptivist, not a politician. I deal in hope.",
+    "Author": "Chuck D",
+    "Tags": [
+      "Morning",
+      "Unity",
+      "Wrong"
+    ],
+    "Popularity": 0.014946014946014946,
+    "Category": "hope"
+  },
+  {
+    "Quote": "And you know, whether it's drama or comedy, the best work is based on truth. It's just that, with comedy, the circumstances are just crazy-heightened, and you have these crazy things thrown at you. But you still have to do it truthfully, because that's where the humor comes from. So it's not that difficult to cross over.",
+    "Author": "Tony Hale",
+    "Tags": [
+      "Work",
+      "Best",
+      "Truth"
+    ],
+    "Popularity": 0.014946014946014946,
+    "Category": "humor"
+  },
+  {
+    "Quote": "True art is characterized by an irresistible urge in the creative artist.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "Creative",
+      "Artist",
+      "True"
+    ],
+    "Popularity": 0.014946014946014946,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.",
+    "Author": "Rumi",
+    "Tags": [
+      "Life",
+      "Wisdom",
+      "Compassion"
+    ],
+    "Popularity": 0.014946014946014946,
+    "Category": "life"
+  },
+  {
+    "Quote": "And in that moment, I swear we were infinite.",
+    "Author": "Stephen Chbosky,  The Perks of Being a Wallflower",
+    "Tags": [
+      "infinity "
+    ],
+    "Popularity": 0.014929014929014928,
+    "Category": ""
+  },
+  {
+    "Quote": "Success is not only one thing. It's not only having a nice house in Beverly Hills and driving a nice Mercedes.",
+    "Author": "Malik Bendjelloul",
+    "Tags": [
+      "Nice",
+      "Driving",
+      "House"
+    ],
+    "Popularity": 0.014915014915014915,
+    "Category": "success"
+  },
+  {
+    "Quote": "Never be afraid to meet to the hilt the demand of either work, or friendship - two of life's major assets.",
+    "Author": "Eleanor Robson Belmont",
+    "Tags": [
+      "Friendship",
+      "Work",
+      "Afraid"
+    ],
+    "Popularity": 0.014915014915014915,
+    "Category": "friendship"
+  },
+  {
+    "Quote": "You don't seem to realize that a poor person who is unhappy is in a better position than a rich person who is unhappy. Because the poor person has hope. He thinks money would help.",
+    "Author": "Jean Kerr",
+    "Tags": [
+      "Money",
+      "Help",
+      "Rich"
+    ],
+    "Popularity": 0.014915014915014915,
+    "Category": "hope"
+  },
+  {
+    "Quote": "People in real life don't get ballplayers' humor, the way we talk in the clubhouse.",
+    "Author": "Justin Verlander",
+    "Tags": [
+      "Life",
+      "Talk",
+      "Clubhouse"
+    ],
+    "Popularity": 0.014915014915014915,
+    "Category": "humor"
+  },
+  {
+    "Quote": "If you cannot learn to love real art, at least learn to hate sham art and reject it.",
+    "Author": "William Morris",
+    "Tags": [
+      "Love",
+      "Hate",
+      "Learn"
+    ],
+    "Popularity": 0.014915014915014915,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Everyone has inside of him a piece of good news. The good news is that you don't know how great you can be! How much you can love! What you can accomplish! And what your potential is!",
+    "Author": "Anne Frank",
+    "Tags": [
+      "Inspirational",
+      "Good",
+      "Great"
+    ],
+    "Popularity": 0.014915014915014915,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "I don't know the key to success, but the key to failure is trying to please everybody.",
+    "Author": "Bill Cosby",
+    "Tags": [
+      "Failure",
+      "Please",
+      "Everybody"
+    ],
+    "Popularity": 0.014883014883014883,
+    "Category": "success"
+  },
+  {
+    "Quote": "I always say you can never be extravagant with beauty. Beauty is God made real. Beauty is life.",
+    "Author": "Imelda Marcos",
+    "Tags": [
+      "Beauty",
+      "God"
+    ],
+    "Popularity": 0.014883014883014883,
+    "Category": "life"
+  },
+  {
+    "Quote": "There is something uniquely depressing about the fact that the National Portrait Gallery's version of the Barack Obama 'Hope' poster previously belonged to a pair of lobbyists. Depressing because Mr. Obama's Washington was not supposed to be the lobbyists' Washington, the place we learned to despise during the last administration.",
+    "Author": "Thomas Frank",
+    "Tags": [
+      "Depressing",
+      "Portrait",
+      "Last"
+    ],
+    "Popularity": 0.014883014883014883,
+    "Category": "hope"
+  },
+  {
+    "Quote": "I certainly didn't say while writing 'Gossip Girl,' 'Oh this is going to be big!' It was really like, 'Oh god, everyone's gong to hate these people! They're so bratty!' But I actually think what is so appealing about them is the humor in them.",
+    "Author": "Cecily von Ziegesar",
+    "Tags": [
+      "God",
+      "Girl",
+      "Hate"
+    ],
+    "Popularity": 0.014883014883014883,
+    "Category": "humor"
+  },
+  {
+    "Quote": "All art is dependent on technology because it's a human endeavour, so even when you're using charcoal on a wall or designed the proscenium arch, that's technology.",
+    "Author": "George Lucas",
+    "Tags": [
+      "Technology",
+      "Wall",
+      "Endeavour"
+    ],
+    "Popularity": 0.014883014883014883,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Love always involves responsibility, and love always involves sacrifice. And we do not really love Christ unless we are prepared to face His task and to take up His Cross.",
+    "Author": "William Barclay",
+    "Tags": [
+      "Easter",
+      "Sacrifice",
+      "Face"
+    ],
+    "Popularity": 0.014883014883014883,
+    "Category": "love"
+  },
+  {
+    "Quote": "I believe that being successful means having a balance of success stories across the many areas of your life. You can't truly be considered successful in your business life if your home life is in shambles.",
+    "Author": "Zig Ziglar",
+    "Tags": [
+      "Home",
+      "Life",
+      "Business"
+    ],
+    "Popularity": 0.014852014852014851,
+    "Category": "success"
+  },
+  {
+    "Quote": "I want to find that defining moment that you're satisfied and you've done what you want to do in your life.",
+    "Author": "Tyson Gay",
+    "Tags": [
+      "Moment",
+      "Satisfied",
+      "Defining"
+    ],
+    "Popularity": 0.014852014852014851,
+    "Category": "life"
+  },
+  {
+    "Quote": "I don't believe in having one partner for your whole life, but I hope I get married. I want to have a husband and two kids and a nice little life baking pies. I'm quite romantic. It's definitely important to have someone make you feel special.",
+    "Author": "Hilary Duff",
+    "Tags": [
+      "Life",
+      "Romantic",
+      "Husband"
+    ],
+    "Popularity": 0.014852014852014851,
+    "Category": "hope"
+  },
+  {
+    "Quote": "In everything I write, I'm always striving to hit the right mix of light and darkness, humor and pain, fun and seriousness.",
+    "Author": "Greg van Eekhout",
+    "Tags": [
+      "Light",
+      "Fun",
+      "Pain"
+    ],
+    "Popularity": 0.014852014852014851,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I am enough of an artist to draw freely upon my imagination.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "Artist",
+      "Draw",
+      "Freely"
+    ],
+    "Popularity": 0.014852014852014851,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Flatter me, and I may not believe you. Criticize me, and I may not like you. Ignore me, and I may not forgive you. Encourage me, and I will not forget you. Love me and I may be forced to love you.",
+    "Author": "William Arthur Ward",
+    "Tags": [
+      "Relationship",
+      "Forget"
+    ],
+    "Popularity": 0.014852014852014851,
+    "Category": "love"
+  },
+  {
+    "Quote": "Basically, when you get to my age, you'll really measure your success in life by how many of the people you want to have love you actually do love you.",
+    "Author": "Warren Buffett",
+    "Tags": [
+      "Life",
+      "Love",
+      "Age"
+    ],
+    "Popularity": 0.01482001482001482,
+    "Category": "success"
+  },
+  {
+    "Quote": "Although you may spend your life killing, You will not exhaust all your foes. But if you quell your own anger, your real enemy will be slain.",
+    "Author": "Nagarjuna",
+    "Tags": [
+      "Anger",
+      "Enemy",
+      "Spend"
+    ],
+    "Popularity": 0.01482001482001482,
+    "Category": "life"
+  },
+  {
+    "Quote": "I don't believe that I'm better than anybody, but I do believe that I'll try harder than most and I hope that people just join me for a little bit of a ride.",
+    "Author": "Tom DeLonge",
+    "Tags": [
+      "Ride",
+      "Anybody",
+      "Join"
+    ],
+    "Popularity": 0.01482001482001482,
+    "Category": "hope"
+  },
+  {
+    "Quote": "I choose my actors well and get to know the quirks of their personalities - and, most of all, I share humor with them. Then I keep my eyes open when they rehearse and perform, because you never know where the next stimulation comes from.",
+    "Author": "George Cukor",
+    "Tags": [
+      "Eyes",
+      "Choose",
+      "Open"
+    ],
+    "Popularity": 0.01482001482001482,
+    "Category": "humor"
+  },
+  {
+    "Quote": "A room hung with pictures is a room hung with thoughts.",
+    "Author": "Joshua Reynolds",
+    "Tags": [
+      "Thoughts",
+      "Room",
+      "Pictures"
+    ],
+    "Popularity": 0.01482001482001482,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Three grand essentials to happiness in this life are something to do, something to love, and something to hope for.",
+    "Author": "Joseph Addison",
+    "Tags": [
+      "Hope",
+      "Life",
+      "Happiness"
+    ],
+    "Popularity": 0.01482001482001482,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Just when you think it can't get any worse, it can. And just when you think it can't get any better, it can.",
+    "Author": "Nicholas Sparks,  At First Sight",
+    "Tags": [
+      "life",
+      "love "
+    ],
+    "Popularity": 0.014793014793014793,
+    "Category": "life"
+  },
+  {
+    "Quote": "The talent of success is nothing more than doing what you can do well, and doing well whatever you do without thought of fame. If it comes at all it will come because it is deserved, not because it is sought after.",
+    "Author": "Henry Wadsworth Longfellow",
+    "Tags": [
+      "Talent",
+      "Fame",
+      "Whatever"
+    ],
+    "Popularity": 0.014789014789014789,
+    "Category": "success"
+  },
+  {
+    "Quote": "In my wildest dreams, I could not have imagined a sweeter life.",
+    "Author": "Hugh Hefner",
+    "Tags": [
+      "Dreams",
+      "Imagined",
+      "Sweeter"
+    ],
+    "Popularity": 0.014789014789014789,
+    "Category": "life"
+  },
+  {
+    "Quote": "I think I've always been somebody, since the deaths of my father and brother, who was afraid to hope. So, I was more prepared for failure and for rejection than for success.",
+    "Author": "Amy Tan",
+    "Tags": [
+      "Success",
+      "Failure",
+      "Father"
+    ],
+    "Popularity": 0.014789014789014789,
+    "Category": "hope"
+  },
+  {
+    "Quote": "There are the horror fans that love the 'Evil Dead' because of the humor, but I'm sure it's not all of them. Not all horror fans love 'Evil Dead' because of the humor, at least not me.",
+    "Author": "Fede Alvarez",
+    "Tags": [
+      "Love",
+      "Evil",
+      "Dead"
+    ],
+    "Popularity": 0.014789014789014789,
+    "Category": "humor"
+  },
+  {
+    "Quote": "A sculptor is a person who is interested in the shape of things, a poet in words, a musician by sounds.",
+    "Author": "Henry Moore",
+    "Tags": [
+      "Words",
+      "Interested",
+      "Sculptor"
+    ],
+    "Popularity": 0.014789014789014789,
+    "Category": "arts"
+  },
+  {
+    "Quote": "There is no sincerer love than the love of food.",
+    "Author": "George Bernard Shaw",
+    "Tags": [
+      "Food"
+    ],
+    "Popularity": 0.014789014789014789,
+    "Category": "love"
+  },
+  {
+    "Quote": "You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.",
+    "Author": "Madeleine L'Engle",
+    "Tags": [
+      "books",
+      "children",
+      "difficult",
+      "grown-ups",
+      "write",
+      "writers",
+      "writing "
+    ],
+    "Popularity": 0.014776014776014776,
+    "Category": "writing"
+  },
+  {
+    "Quote": "If there's a book that you want to read, but it hasn't been written yet, then you must write it.",
+    "Author": "Toni Morrison",
+    "Tags": [
+      "books",
+      "writing "
+    ],
+    "Popularity": 0.014774014774014774,
+    "Category": "writing"
+  },
+  {
+    "Quote": "My success was due to good luck, hard work, and support and advice from friends and mentors. But most importantly, it depended on me to keep trying after I had failed.",
+    "Author": "Mark Warner",
+    "Tags": [
+      "Work",
+      "Good",
+      "Luck"
+    ],
+    "Popularity": 0.014758014758014758,
+    "Category": "success"
+  },
+  {
+    "Quote": "Most of us have learned the hard way that there are very few things you can absolutely count on in life.",
+    "Author": "Graydon Carter",
+    "Tags": [
+      "Count",
+      "Learned",
+      "Absolutely"
+    ],
+    "Popularity": 0.014758014758014758,
+    "Category": "life"
+  },
+  {
+    "Quote": "The script was just the best I'd read in a long time and I love the humor, which I wasn't expecting, and I like the fact that my six year old daughter can see the show without being, you know, protected from it.",
+    "Author": "Stephen Collins",
+    "Tags": [
+      "Love",
+      "Best",
+      "Time"
+    ],
+    "Popularity": 0.014758014758014758,
+    "Category": "humor"
+  },
+  {
+    "Quote": "When I make art, I think about its ability to connect with others, to bring them into the process.",
+    "Author": "Jim Hodges",
+    "Tags": [
+      "Process",
+      "Ability",
+      "Bring"
+    ],
+    "Popularity": 0.014758014758014758,
+    "Category": "arts"
+  },
+  {
+    "Quote": "It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get.",
+    "Author": "Confucius",
+    "Tags": [
+      "Good",
+      "Achieve",
+      "Hate"
+    ],
+    "Popularity": 0.014758014758014758,
+    "Category": "love"
+  },
+  {
+    "Quote": "I believe that one key to success is to accept truth, no matter how it's spoken.",
+    "Author": "Robert Kiyosaki",
+    "Tags": [
+      "Truth",
+      "Accept",
+      "Key"
+    ],
+    "Popularity": 0.014726014726014727,
+    "Category": "success"
+  },
+  {
+    "Quote": "Norway or Switzerland are two marvelous countries, I very much admire, the most advanced countries in the world in fact with great qualities of life.",
+    "Author": "Jose Manuel Barroso",
+    "Tags": [
+      "Great",
+      "Admire",
+      "Fact"
+    ],
+    "Popularity": 0.014726014726014727,
+    "Category": "life"
+  },
+  {
+    "Quote": "We go through the whole season working on next season's car and developing the car and making sure we fit in the car and all that sort of stuff. And we obviously give ideas of what we would hope next year's car would have even if it's small things like buttons on the steering wheel and different positions and whatever.",
+    "Author": "Jenson Button",
+    "Tags": [
+      "Car",
+      "Ideas",
+      "Small"
+    ],
+    "Popularity": 0.014726014726014727,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Humor writing is something that comes naturally to me.",
+    "Author": "Kristan Higgins",
+    "Tags": [
+      "Naturally"
+    ],
+    "Popularity": 0.014726014726014727,
+    "Category": "humor"
+  },
+  {
+    "Quote": "I don't want life to imitate art. I want life to be art.",
+    "Author": "Ernst Fischer",
+    "Tags": [
+      "Life",
+      "Imitate"
+    ],
+    "Popularity": 0.014726014726014727,
+    "Category": "arts"
+  },
+  {
+    "Quote": "There is a fountain of youth: it is your mind, your talents, the creativity you bring to your life and the lives of people you love. When you learn to tap this source, you will truly have defeated age.",
+    "Author": "Sophia Loren",
+    "Tags": [
+      "Age",
+      "Life",
+      "Creativity"
+    ],
+    "Popularity": 0.014726014726014727,
+    "Category": "life"
+  },
+  {
+    "Quote": "Achievement is not always success, while reputed failure often is. It is honest endeavor, persistent effort to do the best possible under any and all circumstances.",
+    "Author": "Orison Swett Marden",
+    "Tags": [
+      "Failure",
+      "Best",
+      "Effort"
+    ],
+    "Popularity": 0.014695014695014694,
+    "Category": "success"
+  },
+  {
+    "Quote": "For the Puritans, the God-centered life meant making the quest for spiritual and moral holiness the great business of life.",
+    "Author": "Leland Ryken",
+    "Tags": [
+      "Business",
+      "Great",
+      "Spiritual"
+    ],
+    "Popularity": 0.014695014695014694,
+    "Category": "life"
+  },
+  {
+    "Quote": "I'm a vegetarian and very much active in regards to how I feel about animal rights and protecting animals and giving animals a voice. But at the same time, I appreciate and respect other people's decisions to eat meat. The only thing that I hope is that people are educated, that they're aware, that they're living a conscious lifestyle.",
+    "Author": "Abbie Cornish",
+    "Tags": [
+      "Time",
+      "Respect",
+      "Giving"
+    ],
+    "Popularity": 0.014695014695014694,
+    "Category": "hope"
+  },
+  {
+    "Quote": "Humor writing requires a rhythm and timing, as well as some kind of connection to the reader, and I think that's how I tap into it.",
+    "Author": "Kristan Higgins",
+    "Tags": [
+      "Timing",
+      "Connection",
+      "Rhythm"
+    ],
+    "Popularity": 0.014695014695014694,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Artists don't make objects. Artists make mythologies.",
+    "Author": "Anish Kapoor",
+    "Tags": [
+      "Artists",
+      "Objects"
+    ],
+    "Popularity": 0.014695014695014694,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Adjusting to the passage of time, I think, is a key to success and to life: just being able to roll with the punches.",
+    "Author": "Dolly Parton",
+    "Tags": [
+      "Life",
+      "Time",
+      "Key"
+    ],
+    "Popularity": 0.014664014664014664,
+    "Category": "success"
+  },
+  {
+    "Quote": "If you go out to Hollywood you'll find a lot of fantastic plastic people there in the business and a lot of people in life generally. They find it so hard to be themselves that they have to be plastic.",
+    "Author": "Jimmy Cliff",
+    "Tags": [
+      "Business",
+      "Hollywood"
+    ],
+    "Popularity": 0.014664014664014664,
+    "Category": "life"
+  },
+  {
+    "Quote": "I try and tell all the kids that I meet that hope to be amazing one day and be a professional athlete or a doctor or a lawyer or whatever they want to be. I tell them they can do all that because Tourette's won't stop them.",
+    "Author": "Tim Howard",
+    "Tags": [
+      "Amazing",
+      "Doctor",
+      "Athlete"
+    ],
+    "Popularity": 0.014664014664014664,
+    "Category": "hope"
+  },
+  {
+    "Quote": "I think Damien Hirst is hilarious. And I think he's a true artist. He's not hilarious first; I think he is a real artist, and I also think he's got an amazing sense of humor.",
+    "Author": "Jemima Kirke",
+    "Tags": [
+      "Amazing",
+      "Artist",
+      "True"
+    ],
+    "Popularity": 0.014664014664014664,
+    "Category": "humor"
+  },
+  {
+    "Quote": "All good art is an indiscretion.",
+    "Author": "Tennessee Williams",
+    "Tags": [
+      "Good"
+    ],
+    "Popularity": 0.014664014664014664,
+    "Category": "arts"
+  }
+]
